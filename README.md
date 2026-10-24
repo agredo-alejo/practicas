@@ -54,7 +54,7 @@ public/identity/          Blue A identity as a vector SVG
 
 The original category directories are now inside `public/legacy`. Their relative relationships and original content are preserved. All **365 original tracked files** were compared to the pre-migration Git blobs. Tests keep checking that baseline while allowing normal Git line-ending conversion. The root `.gitignore` was extended for Next.js output.
 
-The new portfolio pages are React/TypeScript and Tailwind. The archived demos retain their original JavaScript/HTML implementation so the earlier work remains visible. They run in an iframe, isolated from the portfolio styles, and load only after a visitor chooses to start them. This migration does **not** rewrite every historical demo into React or TypeScript.
+The new portfolio pages are React/TypeScript and Tailwind. The archived demos retain their original JavaScript/HTML implementation so the earlier work remains visible. They run automatically when their project page opens, in an iframe isolated from the notebook styles. Stop and restart controls remain available; opening another project starts that experiment automatically. This migration does **not** rewrite every historical demo into React or TypeScript.
 
 ## Add another project
 
