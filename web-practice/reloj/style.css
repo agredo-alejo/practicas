@@ -1,0 +1,67 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: sans-serif;
+	background: url(star.jpg) #000;
+	background-size: cover;
+	color: #fff;
+	font-size: 16px;
+}	
+.wrap{
+	width: 90%;
+	max-width: 1000px;
+}
+.caja{
+	width: 60%;
+	margin:2em;
+}
+.caja p{
+	display: inline-block;
+	line-height: 1em
+}
+.fecha{
+	text-align: center;
+	font-size: 1.5em;
+	margin-bottom: 5px;
+	background: rgba(0,0,0,.5);
+	padding: 20px;
+	width: 100%;
+}
+.reloj{
+	width: 100%;
+	padding: 20px;
+	text-align: center;
+	font-size: 4em;
+	background: rgba(0,0,0,.5);
+
+}
+.reloj .cajaSegundos{
+	display: inline-block;
+}
+.reloj .segundos,
+.reloj .ampm{
+	font-size: 2rem;
+	display: block;
+}
+
+
+
+@media screen and (max-width: 700px) {
+	.wrap{
+		width: 100%;
+	}
+	.caja{
+		width: 90%;
+		margin: 20px;
+	}
+	.reloj{
+		font-size: 3em;
+	}
+	.reloj .segundos,
+.reloj .ampm{
+	font-size: 1rem;
+}
+}

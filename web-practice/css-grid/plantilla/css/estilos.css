@@ -1,0 +1,39 @@
+* {
+	padding:0;
+	margin:0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+	background:#F3F3F3;
+	font-family:CerebriSans-Regular, Arial, Helvetica;
+}
+.contenido{
+	width: 70%;
+	margin: auto;
+}
+.titulo{
+	padding: 10px;
+}
+h1{
+	text-align: center;
+}
+.contenedor{
+	max-width: 1000px;
+	border:5px solid black;
+	background: white;
+	text-align: center;
+}
+.caja-grid{
+	padding: 5px;
+	line-height: 30px;
+	font-size: 30px;
+	background: #202020;
+	color: white;
+}
+@media screen and (max-width: 825px) {
+	.contenido{
+		width: 90%;
+	}
+}

@@ -1,0 +1,198 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: #f3f3f3;
+	font-family: sans-serif;
+}
+header img{
+	border-radius: 50%;
+	width: 36px;
+	height: 36px;
+}
+.logo{
+	font-size: 30px;
+	line-height: 40px;
+	color:#fff;
+	float: left;
+	padding: 5px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.barraMenu{
+	display: none;
+}
+nav{
+	background: #202020;
+	width: 90%;
+	margin: auto;
+	border-radius: 3px;
+}
+nav ul {
+	list-style: none;
+}
+nav ul li{
+	display: inline-block;
+}
+nav ul li a{
+	padding: 20px;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+	display: inline-block;
+}
+.todo{
+	width: 100%;
+	height: 100%;
+}
+section{
+	width: 75%;
+	margin: auto;
+	display: grid;
+	grid-template-columns: minmax(400px, 2fr) 1fr;
+}
+article{
+	background: #fff;
+	border-radius: 5px;
+	/* padding: 20px 10px; */
+	margin: 5px;
+}
+article a{
+	display: block;
+	padding: 20px 10px;
+}
+aside{
+	background: #f56f3a;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 5px;	
+}
+footer{
+	font-size: 14px;
+	background: #202020;
+
+	color: #fff;
+}
+footer img{
+	width: 36px;
+	height: 36px;
+	border-radius: 50%;
+}
+
+.info{
+	padding: 20px;
+}
+.redes .lista{
+	display: inline-block;
+	padding: 2px;
+}
+.footer{
+	display: grid;
+	grid-template-columns: 4fr 3fr 3fr;
+
+}
+
+.foto{
+	display: inline-block;
+	margin-top: 10px;
+}
+.foto img{
+	width: 36px;
+	border-radius: 50%;
+}
+article a,.loading a{
+	color: #000;
+	line-height: 1.5em;
+}
+a article{
+	color: #000;
+	width: 100%;
+}
+.fondoCarga{
+    background: rgba(1, 1,1, 0.9);
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    /* transition: all 1s ease; */
+    z-index: 10000;
+}
+.carga{
+    border: 15px solid #fff;
+    border-top-color: #59b4ff;
+    /* border-top-style: double; */
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    animation: girar .7s linear infinite;
+    box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+}
+@keyframes girar{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+
+@media screen and (max-width: 800px) {
+	.barraMenu{
+		display: block;
+		font-size: 1.5em;
+		background: #202020;
+		width: 100%;
+		border-bottom: 1px solid #fff;
+		position: fixed;
+	}
+	.barraMenu p{
+		height: 69px;
+		display: inline-block;
+		padding: 20px;
+		color: #fff;
+	}
+	.show{
+		position: absolute;
+		left: 0;
+		transition: .5s;
+		position: fixed;
+		height: 100%;
+		width: 80%;
+	}
+	.oculto{
+		display: block;
+		height: 100%;
+		position: fixed;
+		left: -100%;
+		transition: .5s;
+	}
+	nav{
+		left: -100%;
+		margin-top: 70px;
+	}
+	nav ul li{
+		display: block;
+		border-bottom: 1px solid #fff;	
+	}
+		section{
+		width: 90%;
+		margin: auto;
+		grid-template-columns: 1fr;
+	}
+
+	.footer{
+		grid-template-columns: 1fr;
+	}
+	main{
+		margin-top: 70px;
+	}
+}

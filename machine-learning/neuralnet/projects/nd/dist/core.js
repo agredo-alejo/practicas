@@ -1,0 +1,13 @@
+import * as tensor from "./tensor_modules/tensor_module.js";
+import * as layer from "./layer_modules/layer_module.js";
+import * as losses from "./losses_modules/losses.js";
+import * as optimizers from "./optimizers_modules/optimizers.js";
+import * as model from "./model_modules/models.js";
+import * as initializers from "./initializer_modules/initializers.js";
+const nd = {};
+Object.assign(nd, tensor, model);
+nd.layer = layer;
+nd.losses = losses;
+nd.optimizers = optimizers;
+nd.initializers = initializers;
+export { nd };

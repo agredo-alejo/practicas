@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div></div>
+    <div class="contenedor" id="cont">
+        <div class="videos">
+            <!-- <video src="gravity.mp4" class='video' id="myvideo"></video> -->
+        </div>
+        <div class="controls"><input type="range" name="" id="range">
+            <div class="totaltime">
+                
+                <div class="currentTime" id="time"></div>
+            </div>
+            <div class="buttons"> 
+                <button id="movetimeback"><<</button>
+                <button id="play-pause">></button> 
+                
+                <button id="movetimeahead">>></button>
+                <div class="tiempoactual">
+                    <span id="now">
+                        <p id="jeje1">0</p>
+                        <p>:</p>
+                        <p id="jeje2">00</p>
+                    </span>
+                    <span>/</span>
+                    <span id="total">
+                        <p id="jaja1">3</p>
+                        <p>:</p>
+                        <p id="jaja2">59</p>
+                    </span>
+                </div>
+                <button id="fulls">[]</button>
+            </div>
+        </div>
+    </div>
+    <div></div>
+    <div></div>
+    <div>
+        
+        <p>Barra espaciadora = Play - Pause </p><br>
+        <p>F = Pantalla completa</p><br>
+        <p>Flecha hacia la derecha = adelantar video 5 segundos</p><br>
+        <p>Flecha hacia la izquierda = retroceder video 5 segundos</p>
+        <p id="as"></p>
+    </div>
+    <div></div>
+    <script src="main.js"></script>
+</body>
+</html>

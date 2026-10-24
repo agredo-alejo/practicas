@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Neural Networks</title>
+</head>
+
+<body>
+    <div class="fondoCarga" id="fondoCarga">
+        <div class="carga"></div>
+    </div>
+
+    <header>
+        <div class="barraMenu" id="barraMenu">
+            <center>
+                <p class="btnMenu" id="btnMenu">Neural networks</p>
+            </center>
+        </div>
+        <nav id="navegacion" class="oculto">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+
+
+    <div class="contenido" id="contenido">
+        <section>
+            <main>
+                <article>
+                    <a target="_blank" href="projects/random/xor/index.html">
+                        <img src="./styles/imagenes/xorImg.jpg" alt="">
+                        <h2>Xor problem</h2>
+                    </a>
+                </article>
+                <article>
+                    <a target="_blank" href="projects/neuroevolution/juego/index.html">
+                        <img src="./styles/imagenes/neuroevolutionImg.jpg" alt="">
+                        <h2>Neuroevolution</h2>
+                    </a>
+                </article>
+                <article>
+                    <a target="_blank" href="projects/convolution/mnistUser/index.html">
+                        <img src="./styles/imagenes/mnistImg.jpg" alt="">
+                        <h2>Mnist data base</h2>
+                    </a>
+                </article>
+
+                <!-- <article>
+                    <a target="_blank" href="projects/convolution/cnn/index.html">
+                        <h2>CNN</h2>
+                    </a>
+                </article> -->
+
+
+
+            </main>
+
+        </section>
+        <footer>
+
+            <div class="footer">
+                <div class="columna1 info">
+                    <h2>Acerca de</h2>
+                    <p>Esta es una página hecha con el propósito de subir en línea mis prácticas de redes neuronales</p>
+                </div>
+
+                <div class="columna2 info">
+                    <h2>Redes sociales</h2>
+                    <div class="redes">
+                        <div class="lista">
+                            <a target="_blank" href="https://www.facebook.com/profile.php?id=100009274710755"><img
+                                    src="styles/imagenes/logo-facebook.jpg" alt="redes sociales" title="Facebook"></a>
+                            <!--<label> Facebook</label>-->
+                        </div>
+                        <div class="lista">
+                            <a target="_blank" href="https://www.instagram.com/agredo_alejo/"><img
+                                    src="styles/imagenes/logo-instagram.jpg" alt="redes sociales" title="Instagram"></a>
+                            <!--<label> Instagram</label>-->
+                        </div>
+                        <div class="lista">
+                            <a target="_blank"
+                                href="https://www.youtube.com/channel/UCMjqJncjpcJnGmLx0pmaxvQ?view_as=subscriber"><img
+                                    src="styles/imagenes/logo-youtube.jpg" alt="redes sociales" title="Youtube"></a>
+                            <!--<label> Youtube</label>-->
+                        </div>
+                    </div>
+                </div>
+
+
+            </div><br>
+            <hr>
+
+            <div class="containercopy">
+                <div class="copyright">
+                    │ Alejandro Agredo Portilla |
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="js/main.js"></script>
+    <script>
+        window.onload = function () {
+            var contenedor = document.getElementById('fondoCarga');
+            contenedor.style.visibility = 'hidden';
+            contenedor.style.opacity = '0';
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #e6e6e6;
+}
+.cajero,.res {
+    width: 50%;
+    background: #fff;
+    padding: 20px;
+    border-radius: 7px;
+    margin:auto;
+}
+.cajero label{
+    width: 100%;
+}
+.cajero input{
+    width: 100%;
+    cursor: pointer;
+    border-radius: 2px;
+    padding: 5px;
+    margin: auto;
+    border-top: none;
+    border-right: none;
+    border-bottom-color: #A9D1FF; 
+    border-left:none; 
+}
+.cajero input[type='button']{
+    background: #1668C4;
+    padding: 10px;
+    color: #fff;
+    border-radius: 25px;
+    width: 45%;
+    margin: auto;
+    margin-top: 5px;
+}
+@media screen and (max-width: 700px){
+    .cajero,.res{
+        width: 90%;
+    }
+}

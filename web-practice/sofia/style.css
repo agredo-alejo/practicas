@@ -1,0 +1,10 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+body{
+    background-image: url("gato.jpeg");
+}
+h1{
+    text-align: center;
+}
