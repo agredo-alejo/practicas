@@ -1,0 +1,1815 @@
+[
+  {
+    "slug": "machine-learning-backprop",
+    "folder": "backprop",
+    "category": "machine-learning",
+    "title": "Backpropagation",
+    "description": "Following error backward through a network and updating its weights.",
+    "stage": 5,
+    "tags": [
+      "Gradients",
+      "Weight updates"
+    ],
+    "path": "machine-learning/backprop",
+    "demo": "/legacy/machine-learning/backprop/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "matrix.js",
+      "neuralnet.js",
+      "newMatrix.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-cnnfeedfordwardvisualization",
+    "folder": "cnnFeedFordwardVisualization",
+    "category": "machine-learning",
+    "title": "Inside a convolutional network",
+    "description": "An early attempt to make a network's forward pass visible.",
+    "stage": 6,
+    "tags": [
+      "CNNs",
+      "Visualization"
+    ],
+    "path": "machine-learning/cnnFeedFordwardVisualization",
+    "demo": "/legacy/machine-learning/cnnFeedFordwardVisualization/index.html",
+    "status": "incomplete",
+    "issues": [
+      "../../../styles/imagenes/favicon.ico",
+      "../../../libraries/style.css",
+      "../../../libraries/functions.js",
+      "../../../libraries/vectors.js",
+      "../../../libraries/nnInProcess.js"
+    ],
+    "files": [
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-convolucion",
+    "folder": "convolucion",
+    "category": "machine-learning",
+    "title": "Convolution experiments",
+    "description": "Exploring filters and the building blocks of convolutional networks.",
+    "stage": 6,
+    "tags": [
+      "Filters",
+      "Convolution"
+    ],
+    "path": "machine-learning/convolucion",
+    "demo": "/legacy/machine-learning/convolucion/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "OMG.js",
+      "OMGNet.js",
+      "func.js",
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-genetic",
+    "folder": "genetic",
+    "category": "machine-learning",
+    "title": "Genetic algorithms · I",
+    "description": "Searching for solutions through selection, mutation, and repeated generations.",
+    "stage": 4,
+    "tags": [
+      "Evolution",
+      "Selection"
+    ],
+    "path": "machine-learning/genetic",
+    "demo": "/legacy/machine-learning/genetic/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "objects.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-genetic2",
+    "folder": "genetic2",
+    "category": "machine-learning",
+    "title": "Genetic algorithms · II",
+    "description": "A second experiment in evolving a population of candidate solutions.",
+    "stage": 4,
+    "tags": [
+      "Evolution",
+      "Iteration"
+    ],
+    "path": "machine-learning/genetic2",
+    "demo": "/legacy/machine-learning/genetic2/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "objects.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-genetico",
+    "folder": "geneticO",
+    "category": "machine-learning",
+    "title": "Genetic algorithms · variations",
+    "description": "Another branch of the genetic algorithm experiments, kept for comparison.",
+    "stage": 4,
+    "tags": [
+      "Evolution",
+      "Experiment"
+    ],
+    "path": "machine-learning/geneticO",
+    "demo": "/legacy/machine-learning/geneticO/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "objects.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-juego",
+    "folder": "juego",
+    "category": "machine-learning",
+    "title": "Learning to fly",
+    "description": "A Flappy Bird style environment for exploring neuroevolution.",
+    "stage": 6,
+    "tags": [
+      "Neuroevolution",
+      "Agents"
+    ],
+    "path": "machine-learning/juego",
+    "demo": "/legacy/machine-learning/juego/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "bestbird.js",
+      "bird.js",
+      "controler.js",
+      "index.html",
+      "main.js",
+      "pipes.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-linearregression",
+    "folder": "linearRegression",
+    "category": "machine-learning",
+    "title": "Fitting a line",
+    "description": "Connecting data points to a model through linear regression.",
+    "stage": 4,
+    "tags": [
+      "Regression",
+      "Model fitting"
+    ],
+    "path": "machine-learning/linearRegression",
+    "demo": "/legacy/machine-learning/linearRegression/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-mnist",
+    "folder": "mnist",
+    "category": "machine-learning",
+    "title": "Recognizing digits · I",
+    "description": "An early handwritten digit experiment using the MNIST dataset.",
+    "stage": 5,
+    "tags": [
+      "MNIST",
+      "Classification"
+    ],
+    "path": "machine-learning/mnist",
+    "demo": "/legacy/machine-learning/mnist/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "ghj.js",
+      "index.html",
+      "main.js",
+      "mnist.js",
+      "test-images.idx3-ubyte",
+      "test-labels.idx1-ubyte",
+      "train-images.idx3-ubyte",
+      "train-labels.idx1-ubyte"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-mnistuser",
+    "folder": "mnistUser",
+    "category": "machine-learning",
+    "title": "Draw a digit · I",
+    "description": "Taking a trained digit model from a dataset to a drawing canvas.",
+    "stage": 5,
+    "tags": [
+      "MNIST",
+      "Inference"
+    ],
+    "path": "machine-learning/mnistUser",
+    "demo": "/legacy/machine-learning/mnistUser/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "mnist.js",
+      "trainedModel.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-neuralnetwork",
+    "folder": "neuralNetwork",
+    "category": "machine-learning",
+    "title": "A network from scratch",
+    "description": "Working through the XOR problem with a custom neural network implementation.",
+    "stage": 5,
+    "tags": [
+      "XOR",
+      "Matrices"
+    ],
+    "path": "machine-learning/neuralNetwork",
+    "demo": "/legacy/machine-learning/neuralNetwork/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-neuralnet",
+    "folder": "neuralnet",
+    "category": "machine-learning",
+    "title": "The neural network collection",
+    "description": "A project gallery containing later experiments, datasets, and a tensor library.",
+    "stage": 6,
+    "tags": [
+      "Collection",
+      "Tensors"
+    ],
+    "path": "machine-learning/neuralnet",
+    "demo": "/legacy/machine-learning/neuralnet/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "js/main.js",
+      "projects/convolution/convTest/index.html",
+      "projects/convolution/convTest/main.js",
+      "projects/convolution/convTest/modelUtils.js",
+      "projects/convolution/convTest/nd.js",
+      "projects/convolution/convTest/trainedModel.js",
+      "projects/convolution/mnistUser/index.html",
+      "projects/convolution/mnistUser/main.js",
+      "projects/convolution/mnistUser/nd.js",
+      "projects/convolution/mnistUser/trainedModel.js",
+      "projects/convolution/mnist/index.html",
+      "projects/convolution/mnist/main.js",
+      "projects/convolution/mnist/mnist.js",
+      "projects/convolution/mnist/modelUtils.js",
+      "projects/convolution/mnist/nd.js",
+      "projects/convolution/mnist/test-images.idx3-ubyte",
+      "projects/convolution/mnist/test-labels.idx1-ubyte",
+      "projects/convolution/mnist/train-images.idx3-ubyte",
+      "projects/convolution/mnist/train-labels.idx1-ubyte",
+      "projects/convolution/mnist/trainedModels/trainedModel.js",
+      "projects/libraries/functions.js",
+      "projects/libraries/layers.js",
+      "projects/libraries/matrix.js",
+      "projects/libraries/nd.js",
+      "projects/libraries/nd.min.js",
+      "projects/libraries/neuralNetwork.js",
+      "projects/libraries/neuralnet.js",
+      "projects/libraries/nnInProcess.js",
+      "projects/libraries/style.css",
+      "projects/libraries/tensor.js",
+      "projects/libraries/tf.min.js",
+      "projects/libraries/vectors.js",
+      "projects/libraries/vectors.ts",
+      "projects/nd/dist/activations_modules/activations.js",
+      "projects/nd/dist/animate.js",
+      "projects/nd/dist/core.js",
+      "projects/nd/dist/functions.js",
+      "projects/nd/dist/initializer_modules/initializers.js",
+      "projects/nd/dist/layer_modules/activation.js",
+      "projects/nd/dist/layer_modules/batchNorm.js",
+      "projects/nd/dist/layer_modules/conv.js",
+      "projects/nd/dist/layer_modules/dense.js",
+      "projects/nd/dist/layer_modules/dropout.js",
+      "projects/nd/dist/layer_modules/ej.js",
+      "projects/nd/dist/layer_modules/flatten.js",
+      "projects/nd/dist/layer_modules/layer.js",
+      "projects/nd/dist/layer_modules/layer_module.js",
+      "projects/nd/dist/layer_modules/layer_utils.js",
+      "projects/nd/dist/layer_modules/losses.js",
+      "projects/nd/dist/layer_modules/mp.js",
+      "projects/nd/dist/layer_modules/norm.js",
+      "projects/nd/dist/layer_modules/optimizers.js",
+      "projects/nd/dist/losses_modules/losses.js",
+      "projects/nd/dist/merge_modules.js",
+      "projects/nd/dist/model_modules/models.js",
+      "projects/nd/dist/nd.js",
+      "projects/nd/dist/nd2.js",
+      "projects/nd/dist/optimizers_modules/optimizers.js",
+      "projects/nd/dist/tensor_modules/arithmetic.js",
+      "projects/nd/dist/tensor_modules/basic_math.js",
+      "projects/nd/dist/tensor_modules/c_c_p.js",
+      "projects/nd/dist/tensor_modules/matrix.js",
+      "projects/nd/dist/tensor_modules/reduction.js",
+      "projects/nd/dist/tensor_modules/t_creation.js",
+      "projects/nd/dist/tensor_modules/t_elmts.js",
+      "projects/nd/dist/tensor_modules/t_transform.js",
+      "projects/nd/dist/tensor_modules/t_utils.js",
+      "projects/nd/dist/tensor_modules/tensor.js",
+      "projects/nd/dist/tensor_modules/tensor_module.js",
+      "projects/nd/dist/types.js",
+      "projects/nd/dist/util.js",
+      "projects/nd/src/activations_modules/activations.ts",
+      "projects/nd/src/index.ts",
+      "projects/nd/src/initializer_modules/initializers.ts",
+      "projects/nd/src/layer_modules/activation.ts",
+      "projects/nd/src/layer_modules/batchNorm.ts",
+      "projects/nd/src/layer_modules/conv.ts",
+      "projects/nd/src/layer_modules/dense.ts",
+      "projects/nd/src/layer_modules/dropout.ts",
+      "projects/nd/src/layer_modules/flatten.ts",
+      "projects/nd/src/layer_modules/layer.ts",
+      "projects/nd/src/layer_modules/layer_module.ts",
+      "projects/nd/src/layer_modules/layer_utils.ts",
+      "projects/nd/src/layer_modules/mp.ts",
+      "projects/nd/src/layer_modules/norm.ts",
+      "projects/nd/src/losses_modules/losses.ts",
+      "projects/nd/src/merge_modules.ts",
+      "projects/nd/src/model_modules/models.ts",
+      "projects/nd/src/nd.ts",
+      "projects/nd/src/optimizers_modules/optimizers.ts",
+      "projects/nd/src/tensor_modules/arithmetic.ts",
+      "projects/nd/src/tensor_modules/basic_math.ts",
+      "projects/nd/src/tensor_modules/c_c_p.ts",
+      "projects/nd/src/tensor_modules/matrix.ts",
+      "projects/nd/src/tensor_modules/reduction.ts",
+      "projects/nd/src/tensor_modules/t_creation.ts",
+      "projects/nd/src/tensor_modules/t_elmts.ts",
+      "projects/nd/src/tensor_modules/t_transform.ts",
+      "projects/nd/src/tensor_modules/t_utils.ts",
+      "projects/nd/src/tensor_modules/tensor.ts",
+      "projects/nd/src/tensor_modules/tensor_module.ts",
+      "projects/nd/src/types.ts",
+      "projects/nd/src/util.ts",
+      "projects/nd/tsconfig.json",
+      "projects/neuroevolution/juego/bird.js",
+      "projects/neuroevolution/juego/controler.js",
+      "projects/neuroevolution/juego/index.html",
+      "projects/neuroevolution/juego/main.js",
+      "projects/neuroevolution/juego/pipes.js",
+      "projects/random/ndmin/index.html",
+      "projects/random/ndmin/main.js",
+      "projects/random/ndmin/nd.js",
+      "projects/random/tensor/index.html",
+      "projects/random/tensor/main.js",
+      "projects/random/tensor/nd2.js",
+      "projects/random/xor/index.html",
+      "projects/random/xor/main.js",
+      "styles/imagenes/favicon.ico",
+      "styles/imagenes/foto.jpg",
+      "styles/imagenes/lobo.jpg",
+      "styles/imagenes/logo-facebook.jpg",
+      "styles/imagenes/logo-instagram.jpg",
+      "styles/imagenes/logo-twitter.jpg",
+      "styles/imagenes/logo-youtube.jpg",
+      "styles/imagenes/mnistImg.jpg",
+      "styles/imagenes/neuroevolutionImg.jpg",
+      "styles/imagenes/xorImg.jpg",
+      "styles/style.css"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-newmnist",
+    "folder": "newMnist",
+    "category": "machine-learning",
+    "title": "Recognizing digits · II",
+    "description": "Revisiting MNIST with another neural network implementation and saved weights.",
+    "stage": 6,
+    "tags": [
+      "MNIST",
+      "Iteration"
+    ],
+    "path": "machine-learning/newMnist",
+    "demo": "/legacy/machine-learning/newMnist/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "mnist.js",
+      "neuralnet.js",
+      "test-images.idx3-ubyte",
+      "test-labels.idx1-ubyte",
+      "test.js",
+      "train-images.idx3-ubyte",
+      "train-labels.idx1-ubyte",
+      "trainedModel.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-newmnistuser",
+    "folder": "newMnistUser",
+    "category": "machine-learning",
+    "title": "Draw a digit · II",
+    "description": "A later drawing interface for testing a trained digit classifier.",
+    "stage": 6,
+    "tags": [
+      "MNIST",
+      "Inference"
+    ],
+    "path": "machine-learning/newMnistUser",
+    "demo": "/legacy/machine-learning/newMnistUser/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "neuralnet.js",
+      "trainedModel.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-nn",
+    "folder": "nn",
+    "category": "machine-learning",
+    "title": "Neural network notebook",
+    "description": "A small network experiment built with points and custom network code.",
+    "stage": 5,
+    "tags": [
+      "Networks",
+      "Experiment"
+    ],
+    "path": "machine-learning/nn",
+    "demo": "/legacy/machine-learning/nn/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "nn.js",
+      "point.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-nnlayers",
+    "folder": "nnLayers",
+    "category": "machine-learning",
+    "title": "Thinking in layers",
+    "description": "Exploring how layers compose into a neural network.",
+    "stage": 5,
+    "tags": [
+      "Layers",
+      "Architecture"
+    ],
+    "path": "machine-learning/nnLayers",
+    "demo": "/legacy/machine-learning/nnLayers/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "net.js",
+      "nn.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-perceptron",
+    "folder": "perceptron",
+    "category": "machine-learning",
+    "title": "The first classifier",
+    "description": "A perceptron turns weighted inputs into a decision boundary.",
+    "stage": 5,
+    "tags": [
+      "Perceptron",
+      "Classification"
+    ],
+    "path": "machine-learning/perceptron",
+    "demo": "/legacy/machine-learning/perceptron/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "perceptron.js",
+      "point.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-polynomialregression",
+    "folder": "polynomialRegression",
+    "category": "machine-learning",
+    "title": "Beyond a straight line",
+    "description": "Using polynomial regression to model curved relationships.",
+    "stage": 4,
+    "tags": [
+      "Regression",
+      "Polynomials"
+    ],
+    "path": "machine-learning/polynomialRegression",
+    "demo": "/legacy/machine-learning/polynomialRegression/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "functions.js",
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-polynomialregression3",
+    "folder": "polynomialRegression3",
+    "category": "machine-learning",
+    "title": "Fitting a cubic",
+    "description": "A cubic variation on the polynomial regression experiments.",
+    "stage": 4,
+    "tags": [
+      "Regression",
+      "Iteration"
+    ],
+    "path": "machine-learning/polynomialRegression3",
+    "demo": "/legacy/machine-learning/polynomialRegression3/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "functions.js",
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-repasovisualizando",
+    "folder": "repasoVisualizando",
+    "category": "machine-learning",
+    "title": "Seeing the filters",
+    "description": "Visual experiments with matrices and convolution filters.",
+    "stage": 6,
+    "tags": [
+      "Convolution",
+      "Matrices"
+    ],
+    "path": "machine-learning/repasoVisualizando",
+    "demo": "/legacy/machine-learning/repasoVisualizando/index.html",
+    "status": "incomplete",
+    "issues": [
+      "../../../styles/imagenes/favicon.ico",
+      "../../libraries/style.css",
+      "../../libraries/functions.js"
+    ],
+    "files": [
+      "cnnFunctions.js",
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-weightsasinputs",
+    "folder": "weightsAsInputs",
+    "category": "machine-learning",
+    "title": "Weights as inputs",
+    "description": "A branch of the flying-agent experiments exploring network structure.",
+    "stage": 6,
+    "tags": [
+      "Neuroevolution",
+      "Weights"
+    ],
+    "path": "machine-learning/weightsAsInputs",
+    "demo": "/legacy/machine-learning/weightsAsInputs/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "bestbird.js",
+      "bird.js",
+      "controler.js",
+      "index.html",
+      "lateralLayer.js",
+      "main.js",
+      "pipes.js",
+      "worstBirds.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-wightsvisualization",
+    "folder": "wightsVisualization",
+    "category": "machine-learning",
+    "title": "Visualizing the weights",
+    "description": "Inspecting saved agents and the weights behind their behavior.",
+    "stage": 6,
+    "tags": [
+      "Weights",
+      "Visualization"
+    ],
+    "path": "machine-learning/wightsVisualization",
+    "demo": "/legacy/machine-learning/wightsVisualization/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "bestBirds.js",
+      "index.html",
+      "main.js",
+      "worstBirds.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-xor",
+    "folder": "xor",
+    "category": "machine-learning",
+    "title": "Learning XOR",
+    "description": "A classic nonlinear problem for a small custom neural network.",
+    "stage": 5,
+    "tags": [
+      "XOR",
+      "Nonlinearity"
+    ],
+    "path": "machine-learning/xor",
+    "demo": "/legacy/machine-learning/xor/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "nn.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "machine-learning-neuralnet-projects-random-xor",
+    "folder": "neuralnet/projects/random/xor",
+    "category": "machine-learning",
+    "title": "XOR · later notebook",
+    "description": "A later XOR experiment inside the neural network collection.",
+    "stage": 6,
+    "tags": [
+      "XOR",
+      "Iteration"
+    ],
+    "path": "machine-learning/neuralnet/projects/random/xor",
+    "demo": "/legacy/machine-learning/neuralnet/projects/random/xor/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js"
+    ],
+    "nested": true
+  },
+  {
+    "slug": "machine-learning-neuralnet-projects-random-tensor",
+    "folder": "neuralnet/projects/random/tensor",
+    "category": "machine-learning",
+    "title": "Working with tensors",
+    "description": "Exploring tensor operations through a later library experiment.",
+    "stage": 6,
+    "tags": [
+      "Tensors",
+      "Abstraction"
+    ],
+    "path": "machine-learning/neuralnet/projects/random/tensor",
+    "demo": "/legacy/machine-learning/neuralnet/projects/random/tensor/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "nd2.js"
+    ],
+    "nested": true
+  },
+  {
+    "slug": "machine-learning-neuralnet-projects-random-ndmin",
+    "folder": "neuralnet/projects/random/ndmin",
+    "category": "machine-learning",
+    "title": "A minimal tensor experiment",
+    "description": "Another small exploration of multidimensional numerical code.",
+    "stage": 6,
+    "tags": [
+      "Tensors",
+      "Experiment"
+    ],
+    "path": "machine-learning/neuralnet/projects/random/ndmin",
+    "demo": "/legacy/machine-learning/neuralnet/projects/random/ndmin/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "nd.js"
+    ],
+    "nested": true
+  },
+  {
+    "slug": "machine-learning-neuralnet-projects-convolution-mnistuser",
+    "folder": "neuralnet/projects/convolution/mnistUser",
+    "category": "machine-learning",
+    "title": "Convolutional digit interface",
+    "description": "A drawing interface in the later convolution experiments.",
+    "stage": 6,
+    "tags": [
+      "CNNs",
+      "MNIST"
+    ],
+    "path": "machine-learning/neuralnet/projects/convolution/mnistUser",
+    "demo": "/legacy/machine-learning/neuralnet/projects/convolution/mnistUser/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "nd.js",
+      "trainedModel.js"
+    ],
+    "nested": true
+  },
+  {
+    "slug": "machine-learning-neuralnet-projects-neuroevolution-juego",
+    "folder": "neuralnet/projects/neuroevolution/juego",
+    "category": "machine-learning",
+    "title": "Flying agents · later version",
+    "description": "A later neuroevolution game inside the neural network collection.",
+    "stage": 6,
+    "tags": [
+      "Agents",
+      "Iteration"
+    ],
+    "path": "machine-learning/neuralnet/projects/neuroevolution/juego",
+    "demo": "/legacy/machine-learning/neuralnet/projects/neuroevolution/juego/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "bird.js",
+      "controler.js",
+      "index.html",
+      "main.js",
+      "pipes.js"
+    ],
+    "nested": true
+  },
+  {
+    "slug": "machine-learning-neuralnet-projects-convolution-mnist",
+    "folder": "neuralnet/projects/convolution/mnist",
+    "category": "machine-learning",
+    "title": "Convolutional digit training",
+    "description": "The MNIST dataset revisited within the convolution collection.",
+    "stage": 6,
+    "tags": [
+      "CNNs",
+      "Training"
+    ],
+    "path": "machine-learning/neuralnet/projects/convolution/mnist",
+    "demo": "/legacy/machine-learning/neuralnet/projects/convolution/mnist/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "mnist.js",
+      "modelUtils.js",
+      "nd.js",
+      "test-images.idx3-ubyte",
+      "test-labels.idx1-ubyte",
+      "train-images.idx3-ubyte",
+      "train-labels.idx1-ubyte",
+      "trainedModels/trainedModel.js"
+    ],
+    "nested": true
+  },
+  {
+    "slug": "machine-learning-neuralnet-projects-convolution-convtest",
+    "folder": "neuralnet/projects/convolution/convTest",
+    "category": "machine-learning",
+    "title": "Convolution test bench",
+    "description": "A focused experiment for trying the convolution implementation.",
+    "stage": 6,
+    "tags": [
+      "CNNs",
+      "Testing"
+    ],
+    "path": "machine-learning/neuralnet/projects/convolution/convTest",
+    "demo": "/legacy/machine-learning/neuralnet/projects/convolution/convTest/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "modelUtils.js",
+      "nd.js",
+      "trainedModel.js"
+    ],
+    "nested": true
+  },
+  {
+    "slug": "simulations-boids",
+    "folder": "boids",
+    "category": "simulations",
+    "title": "A flock from simple rules",
+    "description": "Separation, alignment, and cohesion turn individual agents into a flock.",
+    "stage": 3,
+    "tags": [
+      "Vectors",
+      "Emergence"
+    ],
+    "path": "simulations/boids",
+    "demo": "/legacy/simulations/boids/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "boids.js",
+      "chaser.js",
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "simulations-circular",
+    "folder": "circular",
+    "category": "simulations",
+    "title": "Circular motion",
+    "description": "Moving a particle around a circle with trigonometry.",
+    "stage": 2,
+    "tags": [
+      "Trigonometry",
+      "Motion"
+    ],
+    "path": "simulations/circular",
+    "demo": "/legacy/simulations/circular/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "particle.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "simulations-gameoflife",
+    "folder": "gameOfLife",
+    "category": "simulations",
+    "title": "Conway's Game of Life",
+    "description": "A grid of cells becomes a changing world through a few local rules.",
+    "stage": 3,
+    "tags": [
+      "Automata",
+      "Emergence"
+    ],
+    "path": "simulations/gameOfLife",
+    "demo": "/legacy/simulations/gameOfLife/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "simulations-gravity",
+    "folder": "gravity",
+    "category": "simulations",
+    "title": "Playing with gravity",
+    "description": "A particle experiment connecting acceleration to motion.",
+    "stage": 3,
+    "tags": [
+      "Physics",
+      "Particles"
+    ],
+    "path": "simulations/gravity",
+    "demo": "/legacy/simulations/gravity/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "particle.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "simulations-ondas",
+    "folder": "ondas",
+    "category": "simulations",
+    "title": "Making waves",
+    "description": "Exploring repeating motion and wave patterns on a canvas.",
+    "stage": 3,
+    "tags": [
+      "Waves",
+      "Oscillation"
+    ],
+    "path": "simulations/ondas",
+    "demo": "/legacy/simulations/ondas/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "simulations-particulas",
+    "folder": "particulas",
+    "category": "simulations",
+    "title": "A world of particles",
+    "description": "A canvas playground for particle objects and their movement.",
+    "stage": 3,
+    "tags": [
+      "Particles",
+      "Animation"
+    ],
+    "path": "simulations/particulas",
+    "demo": "/legacy/simulations/particulas/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "ejemplo.js",
+      "index.html",
+      "main.js",
+      "particle.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "simulations-solarsystem",
+    "folder": "solarSystem",
+    "category": "simulations",
+    "title": "A small solar system",
+    "description": "Representing a system of moving bodies with particles.",
+    "stage": 3,
+    "tags": [
+      "Orbits",
+      "Simulation"
+    ],
+    "path": "simulations/solarSystem",
+    "demo": "/legacy/simulations/solarSystem/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "particles.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "simulations-squarecollision",
+    "folder": "squareCollision",
+    "category": "simulations",
+    "title": "When squares collide",
+    "description": "An experiment in detecting contact between moving shapes.",
+    "stage": 3,
+    "tags": [
+      "Collision",
+      "Geometry"
+    ],
+    "path": "simulations/squareCollision",
+    "demo": "/legacy/simulations/squareCollision/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "simulations-stickyparticles",
+    "folder": "stickyParticles",
+    "category": "simulations",
+    "title": "Particles that stick",
+    "description": "Exploring how interactions between particles change a system.",
+    "stage": 3,
+    "tags": [
+      "Particles",
+      "Interactions"
+    ],
+    "path": "simulations/stickyParticles",
+    "demo": "/legacy/simulations/stickyParticles/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "particle.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "graphics-canvas",
+    "folder": "canvas",
+    "category": "graphics",
+    "title": "Hello, canvas",
+    "description": "Learning to draw and animate particles in the browser.",
+    "stage": 2,
+    "tags": [
+      "Canvas",
+      "Animation"
+    ],
+    "path": "graphics/canvas",
+    "demo": "/legacy/graphics/canvas/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "particle.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "graphics-cube",
+    "folder": "cube",
+    "category": "graphics",
+    "title": "A cube in 2D",
+    "description": "Projecting a three-dimensional object onto a flat canvas.",
+    "stage": 2,
+    "tags": [
+      "3D",
+      "Projection"
+    ],
+    "path": "graphics/cube",
+    "demo": "/legacy/graphics/cube/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "3Dfunctions.js",
+      "cube.js",
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "graphics-dibujo",
+    "folder": "dibujo",
+    "category": "graphics",
+    "title": "Drawing with lines",
+    "description": "An early browser drawing exercise using lines and loops.",
+    "stage": 1,
+    "tags": [
+      "Drawing",
+      "Loops"
+    ],
+    "path": "graphics/dibujo",
+    "demo": "/legacy/graphics/dibujo/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "curso.js",
+      "estilos.css",
+      "index.html"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "graphics-dibujoclick",
+    "folder": "dibujoclick",
+    "category": "graphics",
+    "title": "Click to draw",
+    "description": "Connecting mouse input to drawing on a canvas.",
+    "stage": 1,
+    "tags": [
+      "Events",
+      "Drawing"
+    ],
+    "path": "graphics/dibujoclick",
+    "demo": "/legacy/graphics/dibujoclick/index.html",
+    "status": "incomplete",
+    "issues": [
+      "favicon.ico"
+    ],
+    "files": [
+      "index.html",
+      "main.js",
+      "style.css"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "graphics-mapanimation",
+    "folder": "mapAnimation",
+    "category": "graphics",
+    "title": "Mapping motion",
+    "description": "An animation experiment with blobs, vectors, and mapping functions.",
+    "stage": 2,
+    "tags": [
+      "Vectors",
+      "Animation"
+    ],
+    "path": "graphics/mapAnimation",
+    "demo": "/legacy/graphics/mapAnimation/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "blob.js",
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "graphics-random3d",
+    "folder": "random3D",
+    "category": "graphics",
+    "title": "Vectors in three dimensions",
+    "description": "Exploring the representation and projection of 3D vectors.",
+    "stage": 2,
+    "tags": [
+      "Vectors",
+      "3D"
+    ],
+    "path": "graphics/random3D",
+    "demo": "/legacy/graphics/random3D/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "graphics-raycasting",
+    "folder": "rayCasting",
+    "category": "graphics",
+    "title": "Seeing with rays · I",
+    "description": "Casting rays against boundaries to explore visibility.",
+    "stage": 2,
+    "tags": [
+      "Rays",
+      "Intersections"
+    ],
+    "path": "graphics/rayCasting",
+    "demo": "/legacy/graphics/rayCasting/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "boundary.js",
+      "index.html",
+      "main.js",
+      "particle.js",
+      "ray.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "graphics-raycastingejemplo",
+    "folder": "rayCastingEjemplo",
+    "category": "graphics",
+    "title": "Ray intersection notebook",
+    "description": "A smaller ray-and-segment experiment supporting the ray casting work.",
+    "stage": 2,
+    "tags": [
+      "Rays",
+      "Geometry"
+    ],
+    "path": "graphics/rayCastingEjemplo",
+    "demo": "/legacy/graphics/rayCastingEjemplo/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "ray.js",
+      "segment.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "graphics-raycastingv2",
+    "folder": "rayCastingV2",
+    "category": "graphics",
+    "title": "Seeing with rays · II",
+    "description": "A second version of the ray casting experiment.",
+    "stage": 2,
+    "tags": [
+      "Rays",
+      "Iteration"
+    ],
+    "path": "graphics/rayCastingV2",
+    "demo": "/legacy/graphics/rayCastingV2/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "boundary.js",
+      "index.html",
+      "main.js",
+      "particle.js",
+      "ray.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "graphics-raymarching",
+    "folder": "rayMarching",
+    "category": "graphics",
+    "title": "Marching through space",
+    "description": "Exploring a different way to trace rays through a scene.",
+    "stage": 2,
+    "tags": [
+      "Rays",
+      "Distance"
+    ],
+    "path": "graphics/rayMarching",
+    "demo": "/legacy/graphics/rayMarching/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "circles.js",
+      "index.html",
+      "main.js",
+      "ray.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "graphics-tesseract",
+    "folder": "tesseract",
+    "category": "graphics",
+    "title": "A window into 4D",
+    "description": "Using matrices and four-dimensional vectors to project a tesseract.",
+    "stage": 2,
+    "tags": [
+      "4D",
+      "Matrices"
+    ],
+    "path": "graphics/tesseract",
+    "demo": "/legacy/graphics/tesseract/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "matrices.js",
+      "vector4d.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "graphics-view",
+    "folder": "view",
+    "category": "graphics",
+    "title": "A field of view",
+    "description": "A visual experiment in agents, direction, and visibility.",
+    "stage": 3,
+    "tags": [
+      "Agents",
+      "Visibility"
+    ],
+    "path": "graphics/view",
+    "demo": "/legacy/graphics/view/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "boid.js",
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "math-coordenadas",
+    "folder": "coordenadas",
+    "category": "math",
+    "title": "Thinking in polar coordinates",
+    "description": "Representing positions through angles and distances.",
+    "stage": 2,
+    "tags": [
+      "Coordinates",
+      "Trigonometry"
+    ],
+    "path": "math/coordenadas",
+    "demo": "/legacy/math/coordenadas/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "math-fibonacci",
+    "folder": "fibonacci",
+    "category": "math",
+    "title": "Following Fibonacci",
+    "description": "An early exercise with a familiar mathematical sequence.",
+    "stage": 1,
+    "tags": [
+      "Sequences",
+      "Logic"
+    ],
+    "path": "math/fibonacci",
+    "demo": "/legacy/math/fibonacci/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "style.css"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "math-imaginary",
+    "folder": "imaginary",
+    "category": "math",
+    "title": "Imaginary numbers",
+    "description": "A source and console experiment exploring complex numbers.",
+    "stage": 2,
+    "tags": [
+      "Complex numbers",
+      "Console"
+    ],
+    "path": "math/imaginary",
+    "demo": null,
+    "status": "source",
+    "issues": [],
+    "files": [
+      "imaginary.js",
+      "index.html"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "math-normaldistribution",
+    "folder": "normalDistribution",
+    "category": "math",
+    "title": "Finding the bell curve",
+    "description": "Exploring randomness and the normal distribution.",
+    "stage": 4,
+    "tags": [
+      "Probability",
+      "Distribution"
+    ],
+    "path": "math/normalDistribution",
+    "demo": "/legacy/math/normalDistribution/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "math-scalarproyection",
+    "folder": "scalarProyection",
+    "category": "math",
+    "title": "Projecting a vector",
+    "description": "Visualizing the relationship between vectors through scalar projection.",
+    "stage": 2,
+    "tags": [
+      "Vectors",
+      "Projection"
+    ],
+    "path": "math/scalarProyection",
+    "demo": "/legacy/math/scalarProyection/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "games-asteroids",
+    "folder": "asteroids",
+    "category": "games",
+    "title": "Asteroids",
+    "description": "Building a game from a ship, asteroids, lasers, and a canvas loop.",
+    "stage": 3,
+    "tags": [
+      "Game loop",
+      "Interaction"
+    ],
+    "path": "games/asteroids",
+    "demo": "/legacy/games/asteroids/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "asteroid.js",
+      "index.html",
+      "laser.js",
+      "main.js",
+      "ship.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "games-ruleta",
+    "folder": "ruleta",
+    "category": "games",
+    "title": "Spin the wheel",
+    "description": "A roulette-style canvas experiment.",
+    "stage": 1,
+    "tags": [
+      "Randomness",
+      "Interaction"
+    ],
+    "path": "games/ruleta",
+    "demo": "/legacy/games/ruleta/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "ruleta.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "web-practice-cajero",
+    "folder": "cajero",
+    "category": "web-practice",
+    "title": "A little ATM",
+    "description": "An early interface exercise combining input and JavaScript logic.",
+    "stage": 1,
+    "tags": [
+      "Forms",
+      "Logic"
+    ],
+    "path": "web-practice/cajero",
+    "demo": "/legacy/web-practice/cajero/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "style.css"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "web-practice-carga",
+    "folder": "carga",
+    "category": "web-practice",
+    "title": "While you wait",
+    "description": "A small exploration of loading animation and CSS.",
+    "stage": 1,
+    "tags": [
+      "CSS",
+      "Animation"
+    ],
+    "path": "web-practice/carga",
+    "demo": "/legacy/web-practice/carga/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "style.css"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "web-practice-contra",
+    "folder": "contra",
+    "category": "web-practice",
+    "title": "Password practice",
+    "description": "A browser exercise around passwords, inputs, and events.",
+    "stage": 1,
+    "tags": [
+      "Forms",
+      "Events"
+    ],
+    "path": "web-practice/contra",
+    "demo": "/legacy/web-practice/contra/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "style.css"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "web-practice-css-grid",
+    "folder": "css-grid",
+    "category": "web-practice",
+    "title": "Finding the grid",
+    "description": "A numbered layout exercise exploring CSS Grid.",
+    "stage": 1,
+    "tags": [
+      "CSS Grid",
+      "Layout"
+    ],
+    "path": "web-practice/css-grid",
+    "demo": "/legacy/web-practice/css-grid/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "index.php",
+      "plantilla/css/estilos.css",
+      "plantilla/css/grid.css"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "web-practice-hover",
+    "folder": "hover",
+    "category": "web-practice",
+    "title": "On hover",
+    "description": "Trying out hover interactions and styling.",
+    "stage": 1,
+    "tags": [
+      "CSS",
+      "Interaction"
+    ],
+    "path": "web-practice/hover",
+    "demo": "/legacy/web-practice/hover/index.html",
+    "status": "incomplete",
+    "issues": [
+      "favicon.ico"
+    ],
+    "files": [
+      "index.html",
+      "style.css"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "web-practice-logincool",
+    "folder": "logincool",
+    "category": "web-practice",
+    "title": "A login with personality",
+    "description": "An early attempt to give a login page its own visual design.",
+    "stage": 1,
+    "tags": [
+      "Forms",
+      "Styling"
+    ],
+    "path": "web-practice/logincool",
+    "demo": "/legacy/web-practice/logincool/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "estilos.css",
+      "index.html",
+      "tecnologia.jpg"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "web-practice-reloj",
+    "folder": "reloj",
+    "category": "web-practice",
+    "title": "Keeping time",
+    "description": "A browser clock built with JavaScript and CSS.",
+    "stage": 1,
+    "tags": [
+      "Time",
+      "DOM"
+    ],
+    "path": "web-practice/reloj",
+    "demo": "/legacy/web-practice/reloj/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "reloj.js",
+      "star.jpg",
+      "style.css"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "web-practice-sofia",
+    "folder": "sofia",
+    "category": "web-practice",
+    "title": "A small web page",
+    "description": "An early page and styling exercise preserved in its original form.",
+    "stage": 1,
+    "tags": [
+      "HTML",
+      "CSS"
+    ],
+    "path": "web-practice/sofia",
+    "demo": "/legacy/web-practice/sofia/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "gato.jpeg",
+      "index.html",
+      "style.css"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "web-practice-tmb",
+    "folder": "tmb",
+    "category": "web-practice",
+    "title": "TMB calculator",
+    "description": "An early calculator exercise connecting a form to JavaScript.",
+    "stage": 1,
+    "tags": [
+      "Forms",
+      "Calculations"
+    ],
+    "path": "web-practice/tmb",
+    "demo": "/legacy/web-practice/tmb/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "style.css"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "web-practice-video",
+    "folder": "video",
+    "category": "web-practice",
+    "title": "Video and the browser",
+    "description": "An experiment with browser video; its original media file is missing.",
+    "stage": 1,
+    "tags": [
+      "Media",
+      "DOM"
+    ],
+    "path": "web-practice/video",
+    "demo": "/legacy/web-practice/video/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "style.css"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "experiments-fuck",
+    "folder": "fuck",
+    "category": "experiments",
+    "title": "p5.js scratchpad",
+    "description": "A small source and console experiment with p5 vectors.",
+    "stage": 2,
+    "tags": [
+      "p5.js",
+      "Console"
+    ],
+    "path": "experiments/fuck",
+    "demo": null,
+    "status": "source",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js",
+      "p5.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "experiments-josev",
+    "folder": "joseV",
+    "category": "experiments",
+    "title": "Canvas scratchpad",
+    "description": "A minimal canvas experiment kept as part of the learning archive.",
+    "stage": 1,
+    "tags": [
+      "Canvas",
+      "Experiment"
+    ],
+    "path": "experiments/joseV",
+    "demo": "/legacy/experiments/joseV/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "experiments-prueba",
+    "folder": "prueba",
+    "category": "experiments",
+    "title": "Motion scratchpad",
+    "description": "An unfinished sketch experimenting with a moving rectangle.",
+    "stage": 2,
+    "tags": [
+      "Motion",
+      "Experiment"
+    ],
+    "path": "experiments/prueba",
+    "demo": "/legacy/experiments/prueba/index.html",
+    "status": "archived",
+    "issues": [],
+    "files": [
+      "index.html",
+      "main.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "shared-libraries",
+    "folder": "libraries",
+    "category": "shared",
+    "title": "The shared toolbox",
+    "description": "Reusable vector, matrix, canvas, and neural network helpers used across projects.",
+    "stage": 5,
+    "tags": [
+      "Libraries",
+      "Reuse"
+    ],
+    "path": "shared/libraries",
+    "demo": null,
+    "status": "source",
+    "issues": [],
+    "files": [
+      "functions.js",
+      "matrix.js",
+      "neuralNetwork.js",
+      "style.css",
+      "tf.min.js",
+      "vectors.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "shared-neuralnetlib",
+    "folder": "neuralnetLib",
+    "category": "shared",
+    "title": "A neural network library",
+    "description": "A reusable neural network implementation extracted into its own folder.",
+    "stage": 5,
+    "tags": [
+      "Library",
+      "Abstraction"
+    ],
+    "path": "shared/neuralnetLib",
+    "demo": null,
+    "status": "source",
+    "issues": [],
+    "files": [
+      "neuralnet.js"
+    ],
+    "nested": false
+  },
+  {
+    "slug": "shared-plantilla",
+    "folder": "plantilla",
+    "category": "shared",
+    "title": "The original template assets",
+    "description": "Shared images and styling assets from the early project galleries.",
+    "stage": 1,
+    "tags": [
+      "Assets",
+      "Templates"
+    ],
+    "path": "shared/plantilla",
+    "demo": null,
+    "status": "source",
+    "issues": [],
+    "files": [
+      "imagenes/favicon.ico",
+      "imagenes/foto.jpg",
+      "imagenes/lobo.jpg",
+      "imagenes/logo-facebook.jpg",
+      "imagenes/logo-instagram.jpg",
+      "imagenes/logo-twitter.jpg",
+      "imagenes/logo-youtube.jpg"
+    ],
+    "nested": false
+  }
+]

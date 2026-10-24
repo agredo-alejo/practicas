@@ -1,0 +1,1827 @@
+[
+  {
+    "path": "README.md",
+    "gitBlob": "5f4ece6ede049032ead05be7fb7eba1f9f196aa6",
+    "text": true
+  },
+  {
+    "path": "experiments/fuck/index.html",
+    "gitBlob": "76faafb6ac8e37c9cda9eb83cd01e0db9ca38ebe",
+    "text": true
+  },
+  {
+    "path": "experiments/fuck/main.js",
+    "gitBlob": "5ae05e8bff548009767fd5accac315ff7e2435be",
+    "text": true
+  },
+  {
+    "path": "experiments/fuck/p5.js",
+    "gitBlob": "6cfd84af4fd8d7ee68a71a51b276c74ebbd4a480",
+    "text": true
+  },
+  {
+    "path": "experiments/joseV/index.html",
+    "gitBlob": "68bdab3db17ebe5e50bff5137776a39343306be6",
+    "text": true
+  },
+  {
+    "path": "experiments/joseV/main.js",
+    "gitBlob": "0b81d003aa7976c01cd9dd4404756dd94789202a",
+    "text": true
+  },
+  {
+    "path": "experiments/prueba/index.html",
+    "gitBlob": "8aa8aed6f65601ef1dde9640365e1011ae9cdca8",
+    "text": true
+  },
+  {
+    "path": "experiments/prueba/main.js",
+    "gitBlob": "c2ebfd74ffe12e34d95f573c4a4c6f03278e5eb2",
+    "text": true
+  },
+  {
+    "path": "first.html",
+    "gitBlob": "b8fba4d2f9cad8f23a55b2fa42a508a342e5ee90",
+    "text": true
+  },
+  {
+    "path": "games/asteroids/asteroid.js",
+    "gitBlob": "45a259c376b8217bef3f1c7aa48177d7a79afdf7",
+    "text": true
+  },
+  {
+    "path": "games/asteroids/index.html",
+    "gitBlob": "bdbaedcaf07584c2cc50c10fd29869cf736d8411",
+    "text": true
+  },
+  {
+    "path": "games/asteroids/laser.js",
+    "gitBlob": "30590bb8e4ea9ec0c3bf377ecca111b4d8a85cc4",
+    "text": true
+  },
+  {
+    "path": "games/asteroids/main.js",
+    "gitBlob": "2e3a1068717daafad6cce1852bc48b0bb9413177",
+    "text": true
+  },
+  {
+    "path": "games/asteroids/ship.js",
+    "gitBlob": "f3b99567f14ffbae6fc5009115b039194eca1f95",
+    "text": true
+  },
+  {
+    "path": "games/ruleta/index.html",
+    "gitBlob": "05b5a6a3e5cf57cd05ddfeef18bffbb02fdd5350",
+    "text": true
+  },
+  {
+    "path": "games/ruleta/main.js",
+    "gitBlob": "c5d59353737a1e5e1225fca26001cd993703a5cb",
+    "text": true
+  },
+  {
+    "path": "games/ruleta/ruleta.js",
+    "gitBlob": "5bc64160823e3a33287c04e29bbb0f6c6cdc5af7",
+    "text": true
+  },
+  {
+    "path": "graphics/canvas/index.html",
+    "gitBlob": "f0d091453797889cce27e99c30d28bd455d6d720",
+    "text": true
+  },
+  {
+    "path": "graphics/canvas/main.js",
+    "gitBlob": "9f9d9500e618775081cb0edac66cceee29c8eba7",
+    "text": true
+  },
+  {
+    "path": "graphics/canvas/particle.js",
+    "gitBlob": "798638cd8fa4964fb584d7178da8ec7ba844c42b",
+    "text": true
+  },
+  {
+    "path": "graphics/cube/3Dfunctions.js",
+    "gitBlob": "1f80afb3463f691d261b7a0e6ecc8539f14cbabc",
+    "text": true
+  },
+  {
+    "path": "graphics/cube/cube.js",
+    "gitBlob": "690c488e78cc22d14a3038e48365030fecd3b3cd",
+    "text": true
+  },
+  {
+    "path": "graphics/cube/index.html",
+    "gitBlob": "f56c9563796f9b16fcea102073d929c834fc6f08",
+    "text": true
+  },
+  {
+    "path": "graphics/cube/main.js",
+    "gitBlob": "30e2fd24f7bf2befa4d40b94da3e6fdf4c5a4917",
+    "text": true
+  },
+  {
+    "path": "graphics/dibujo/curso.js",
+    "gitBlob": "0774e0dc08c038beb737875acd8c4e2f97eadbb5",
+    "text": true
+  },
+  {
+    "path": "graphics/dibujo/estilos.css",
+    "gitBlob": "706636adbfd9c1570f990717ffaf7608a478e7f3",
+    "text": true
+  },
+  {
+    "path": "graphics/dibujo/index.html",
+    "gitBlob": "1735d117ba8f58bbc86def1315958bdc7405de2f",
+    "text": true
+  },
+  {
+    "path": "graphics/dibujoclick/index.html",
+    "gitBlob": "de0019946ffc9075effa89ec1e9bde7caca39f42",
+    "text": true
+  },
+  {
+    "path": "graphics/dibujoclick/main.js",
+    "gitBlob": "487003472968273af47a7a3cc6aba5d5a4f9fa0f",
+    "text": true
+  },
+  {
+    "path": "graphics/dibujoclick/style.css",
+    "gitBlob": "233e987927b6d24d70189287e219cdfd648090e3",
+    "text": true
+  },
+  {
+    "path": "graphics/mapAnimation/blob.js",
+    "gitBlob": "ce3f64517a94df74fece22fa4273bf9d65a5ca90",
+    "text": true
+  },
+  {
+    "path": "graphics/mapAnimation/index.html",
+    "gitBlob": "14b15e8f703a0c00824f140375c29fc4a303c93d",
+    "text": true
+  },
+  {
+    "path": "graphics/mapAnimation/main.js",
+    "gitBlob": "7a5893d1b0ae97281c35a60e5a783738d12a57ba",
+    "text": true
+  },
+  {
+    "path": "graphics/random3D/index.html",
+    "gitBlob": "dff9fca81a8dde110889c1927932f66776ab9a03",
+    "text": true
+  },
+  {
+    "path": "graphics/random3D/main.js",
+    "gitBlob": "f7307df85469c78ea0b5a9f8d9f5b93be38ddcb0",
+    "text": true
+  },
+  {
+    "path": "graphics/rayCasting/boundary.js",
+    "gitBlob": "f227b98a84d96d73b4b72e00e6c849f717da6072",
+    "text": true
+  },
+  {
+    "path": "graphics/rayCasting/index.html",
+    "gitBlob": "9339c8ec6319ed8aa8e2178bd69353f1cf3b3081",
+    "text": true
+  },
+  {
+    "path": "graphics/rayCasting/main.js",
+    "gitBlob": "3d3c62276ba82b3dd2ab5e339ebc9713d23d89c6",
+    "text": true
+  },
+  {
+    "path": "graphics/rayCasting/particle.js",
+    "gitBlob": "67d6e4b57997bcfe40647da14269bb7aee54f1c7",
+    "text": true
+  },
+  {
+    "path": "graphics/rayCasting/ray.js",
+    "gitBlob": "2ce34f04a998aae02cf3d69b9e5a22329168f255",
+    "text": true
+  },
+  {
+    "path": "graphics/rayCastingEjemplo/index.html",
+    "gitBlob": "d2f423c5b02b57e5c0788805ce83e8d53fec4951",
+    "text": true
+  },
+  {
+    "path": "graphics/rayCastingEjemplo/main.js",
+    "gitBlob": "23f3e802556d1aec42e40b098ac57a2fce715c5e",
+    "text": true
+  },
+  {
+    "path": "graphics/rayCastingEjemplo/ray.js",
+    "gitBlob": "c3eb0845298fbf66b357a73e921d7436e33a06f4",
+    "text": true
+  },
+  {
+    "path": "graphics/rayCastingEjemplo/segment.js",
+    "gitBlob": "959f0290fed0eac09cad6b6e90d8d63020a7163d",
+    "text": true
+  },
+  {
+    "path": "graphics/rayCastingV2/boundary.js",
+    "gitBlob": "f8350510bd2dc4e4160ffc822764a540c1fda229",
+    "text": true
+  },
+  {
+    "path": "graphics/rayCastingV2/index.html",
+    "gitBlob": "9339c8ec6319ed8aa8e2178bd69353f1cf3b3081",
+    "text": true
+  },
+  {
+    "path": "graphics/rayCastingV2/main.js",
+    "gitBlob": "4da655f00054fb16c43bb94e45b66fc82b6bb311",
+    "text": true
+  },
+  {
+    "path": "graphics/rayCastingV2/particle.js",
+    "gitBlob": "28936ecdff9ee118cc5d1003ecf29d5f8953eaf9",
+    "text": true
+  },
+  {
+    "path": "graphics/rayCastingV2/ray.js",
+    "gitBlob": "56b044adbab6d3ad876cbf733f5e88daeb336e45",
+    "text": true
+  },
+  {
+    "path": "graphics/rayMarching/circles.js",
+    "gitBlob": "d0dbc2d9892d9da354faf03c2f1d175acfc887af",
+    "text": true
+  },
+  {
+    "path": "graphics/rayMarching/index.html",
+    "gitBlob": "ef229053157300a4ca6e5955aede217138784d4e",
+    "text": true
+  },
+  {
+    "path": "graphics/rayMarching/main.js",
+    "gitBlob": "3aa8e3c83b54b7a608f447ddac308285ba37e314",
+    "text": true
+  },
+  {
+    "path": "graphics/rayMarching/ray.js",
+    "gitBlob": "c140b6d10f75d89898e0b5483ef7c853b7b930a0",
+    "text": true
+  },
+  {
+    "path": "graphics/tesseract/index.html",
+    "gitBlob": "0f9bb93e42ee43c429e3350bc692fa564fd29bbd",
+    "text": true
+  },
+  {
+    "path": "graphics/tesseract/main.js",
+    "gitBlob": "e593713eb6be2f11320f809997ee817b1080274b",
+    "text": true
+  },
+  {
+    "path": "graphics/tesseract/matrices.js",
+    "gitBlob": "3c030e090ed8f4f9eb6ea47cb0f52738da0d68f6",
+    "text": true
+  },
+  {
+    "path": "graphics/tesseract/vector4d.js",
+    "gitBlob": "c2a10e720c418f39971f756c3664206954afae15",
+    "text": true
+  },
+  {
+    "path": "graphics/view/boid.js",
+    "gitBlob": "0ac07056091b6850afe9302d04733597ec035f03",
+    "text": true
+  },
+  {
+    "path": "graphics/view/index.html",
+    "gitBlob": "8a594c8911c8d7b8819cf6081842d08bbce2f6c1",
+    "text": true
+  },
+  {
+    "path": "graphics/view/main.js",
+    "gitBlob": "82fc3075c11d4b8df600822420a4d7b753d65b89",
+    "text": true
+  },
+  {
+    "path": "index.html",
+    "gitBlob": "178a5d7c3567e44f3ee85a75f4a5c405518f69f8",
+    "text": true
+  },
+  {
+    "path": "machine-learning/backprop/index.html",
+    "gitBlob": "3142c0cfe455cb48cef2fecceb1f98b19fb6f978",
+    "text": true
+  },
+  {
+    "path": "machine-learning/backprop/main.js",
+    "gitBlob": "9a6ed60e2522f38bfb45c5fb628c23806788f979",
+    "text": true
+  },
+  {
+    "path": "machine-learning/backprop/matrix.js",
+    "gitBlob": "43d97bddf0e0b0f3727afe982297801d38d4ea94",
+    "text": true
+  },
+  {
+    "path": "machine-learning/backprop/neuralnet.js",
+    "gitBlob": "c676f5d6ef5f4b1720ac51746e17b434ee0560ac",
+    "text": true
+  },
+  {
+    "path": "machine-learning/backprop/newMatrix.js",
+    "gitBlob": "ee15d852e7ba990f7a843c8677f4ad0872645cce",
+    "text": true
+  },
+  {
+    "path": "machine-learning/cnnFeedFordwardVisualization/index.html",
+    "gitBlob": "cfe6f8ffbee07df6d03e584917a573211a635caa",
+    "text": true
+  },
+  {
+    "path": "machine-learning/cnnFeedFordwardVisualization/main.js",
+    "gitBlob": "ebd43322ab5373d899516550e9ba520a23637ce9",
+    "text": true
+  },
+  {
+    "path": "machine-learning/convolucion/OMG.js",
+    "gitBlob": "5a8aad3234ae543f9783cc200aa5642f08f6c263",
+    "text": true
+  },
+  {
+    "path": "machine-learning/convolucion/OMGNet.js",
+    "gitBlob": "8b5a53e38d3cbc2796a16f531b1077548cb7bce5",
+    "text": true
+  },
+  {
+    "path": "machine-learning/convolucion/func.js",
+    "gitBlob": "c2d5da4e3c9616db17b95f0dd26f53479a5ddbe9",
+    "text": true
+  },
+  {
+    "path": "machine-learning/convolucion/index.html",
+    "gitBlob": "ac7a0d6254182f3c50c3351e3ead7be0e736754a",
+    "text": true
+  },
+  {
+    "path": "machine-learning/convolucion/main.js",
+    "gitBlob": "7bdbabb7f001f94dc2f7da74393b9c3238778c0b",
+    "text": true
+  },
+  {
+    "path": "machine-learning/genetic/index.html",
+    "gitBlob": "6dd1730126cdc4dc3c0cfac72c5414acdc0234cd",
+    "text": true
+  },
+  {
+    "path": "machine-learning/genetic/main.js",
+    "gitBlob": "ef514d2aa03ffd62467fc80b93f0a2561608733e",
+    "text": true
+  },
+  {
+    "path": "machine-learning/genetic/objects.js",
+    "gitBlob": "b3010c31c5634b9b78d40246f3684fc3f74147ed",
+    "text": true
+  },
+  {
+    "path": "machine-learning/genetic2/index.html",
+    "gitBlob": "6dd1730126cdc4dc3c0cfac72c5414acdc0234cd",
+    "text": true
+  },
+  {
+    "path": "machine-learning/genetic2/main.js",
+    "gitBlob": "be1e23cb224019d077c7ed81000645dacafd447d",
+    "text": true
+  },
+  {
+    "path": "machine-learning/genetic2/objects.js",
+    "gitBlob": "24f00be257fd06fa3a879865ea49a1803fc2e6c5",
+    "text": true
+  },
+  {
+    "path": "machine-learning/geneticO/index.html",
+    "gitBlob": "30d979e9405359d84601db343cc8678d525c1bc9",
+    "text": true
+  },
+  {
+    "path": "machine-learning/geneticO/main.js",
+    "gitBlob": "738b6e808f3b9a3ceeddce40b3909b78ad3553dc",
+    "text": true
+  },
+  {
+    "path": "machine-learning/geneticO/objects.js",
+    "gitBlob": "b4e9e8872bb0a6e3b79be2eee4a28f289f28d0f4",
+    "text": true
+  },
+  {
+    "path": "machine-learning/juego/bestbird.js",
+    "gitBlob": "ae1abd37afb838c811ed40a271dd4ac0c46d5be9",
+    "text": true
+  },
+  {
+    "path": "machine-learning/juego/bird.js",
+    "gitBlob": "c9e6e6dd880bc39e9c512f2ab82ffcb70403c71f",
+    "text": true
+  },
+  {
+    "path": "machine-learning/juego/controler.js",
+    "gitBlob": "2a486ff5a6843487acf0981a39afd9dde4a4e4fc",
+    "text": true
+  },
+  {
+    "path": "machine-learning/juego/index.html",
+    "gitBlob": "0526175c734b0b6e6b43286268a1fbcbb46e778f",
+    "text": true
+  },
+  {
+    "path": "machine-learning/juego/main.js",
+    "gitBlob": "bd601f53e02b55ac6278be0d038a0fefe7115435",
+    "text": true
+  },
+  {
+    "path": "machine-learning/juego/pipes.js",
+    "gitBlob": "b5b1f959bd57e258003f12c6dafb1958c9239070",
+    "text": true
+  },
+  {
+    "path": "machine-learning/linearRegression/index.html",
+    "gitBlob": "0ecbfb2df50a89996da15328d049bff98ccba0dc",
+    "text": true
+  },
+  {
+    "path": "machine-learning/linearRegression/main.js",
+    "gitBlob": "e65ad09fa2f3d04b1e3f06cfb293b7127f41e19c",
+    "text": true
+  },
+  {
+    "path": "machine-learning/mnist/ghj.js",
+    "gitBlob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "text": true
+  },
+  {
+    "path": "machine-learning/mnist/index.html",
+    "gitBlob": "493fec050319bc105b9e9c7efb0c20fee1f09869",
+    "text": true
+  },
+  {
+    "path": "machine-learning/mnist/main.js",
+    "gitBlob": "ae302bf6aa58253fb933df611064eaf1a5a420dc",
+    "text": true
+  },
+  {
+    "path": "machine-learning/mnist/mnist.js",
+    "gitBlob": "b8a37998f01173fa88f67e72070135267b92acde",
+    "text": true
+  },
+  {
+    "path": "machine-learning/mnist/test-images.idx3-ubyte",
+    "gitBlob": "1170b2cae98de7a524b163fcc379ac8f00925b12",
+    "text": false
+  },
+  {
+    "path": "machine-learning/mnist/test-labels.idx1-ubyte",
+    "gitBlob": "d1c3a970612bbd2df47a3c0697f82bd394abc450",
+    "text": false
+  },
+  {
+    "path": "machine-learning/mnist/train-images.idx3-ubyte",
+    "gitBlob": "bbce27659e0fc2b7ed2a64c127849380a477099b",
+    "text": false
+  },
+  {
+    "path": "machine-learning/mnist/train-labels.idx1-ubyte",
+    "gitBlob": "d6b4c5db3b52063d543fb397aede09aba0dc5234",
+    "text": false
+  },
+  {
+    "path": "machine-learning/mnistUser/index.html",
+    "gitBlob": "eb108d568a63d83d78aa4ab9d3508b17e18d64eb",
+    "text": true
+  },
+  {
+    "path": "machine-learning/mnistUser/main.js",
+    "gitBlob": "d5bfab553b6d741981c93221efec8a2acafd23d6",
+    "text": true
+  },
+  {
+    "path": "machine-learning/mnistUser/mnist.js",
+    "gitBlob": "b8a37998f01173fa88f67e72070135267b92acde",
+    "text": true
+  },
+  {
+    "path": "machine-learning/mnistUser/trainedModel.js",
+    "gitBlob": "15388f75ae34f78143dcdf7e15b6bf93ddb81f8c",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralNetwork/index.html",
+    "gitBlob": "a6eefcfc9a618d78f098e1b337ca79df6f72a4e0",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralNetwork/main.js",
+    "gitBlob": "01c8a78e372af86aa90c8fa9dbf481550928876c",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/index.html",
+    "gitBlob": "d6ef5511cc7997d0fb86668736eb0988cc66c06c",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/js/main.js",
+    "gitBlob": "f80b743ab987975077f67a4f479060d0d008208e",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/convTest/index.html",
+    "gitBlob": "6ab19e08e835f6be4539296961f0bfee2dd25982",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/convTest/main.js",
+    "gitBlob": "9e8fbf878198f3159bf78d08ae8906f806b7cb0f",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/convTest/modelUtils.js",
+    "gitBlob": "bee0922cfb62deb7a99a11be5c09cd0898281b19",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/convTest/nd.js",
+    "gitBlob": "5dee262c9e6fd2fb59898c1ab7c8e11e5a58f426",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/convTest/trainedModel.js",
+    "gitBlob": "726f481e14b0c2544d98f357c857dafe7b8f05d9",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/mnist/index.html",
+    "gitBlob": "7b62cadec269a170852bf43def65868e50660599",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/mnist/main.js",
+    "gitBlob": "bea7519cd107157c28cdfd734028434052e8d41e",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/mnist/mnist.js",
+    "gitBlob": "3ee5fd46e136badc716216058059c46105135026",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/mnist/modelUtils.js",
+    "gitBlob": "086d0e17425a6a102cc75bb4fa50e77d0cbaa64f",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/mnist/nd.js",
+    "gitBlob": "5dee262c9e6fd2fb59898c1ab7c8e11e5a58f426",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/mnist/test-images.idx3-ubyte",
+    "gitBlob": "1170b2cae98de7a524b163fcc379ac8f00925b12",
+    "text": false
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/mnist/test-labels.idx1-ubyte",
+    "gitBlob": "d1c3a970612bbd2df47a3c0697f82bd394abc450",
+    "text": false
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/mnist/train-images.idx3-ubyte",
+    "gitBlob": "bbce27659e0fc2b7ed2a64c127849380a477099b",
+    "text": false
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/mnist/train-labels.idx1-ubyte",
+    "gitBlob": "d6b4c5db3b52063d543fb397aede09aba0dc5234",
+    "text": false
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/mnist/trainedModels/trainedModel.js",
+    "gitBlob": "e4372225f9da4f2d000274970c7a45ab6e9b3850",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/mnistUser/index.html",
+    "gitBlob": "623f50c92b3eed54517121fb3a85d37953c495e4",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/mnistUser/main.js",
+    "gitBlob": "87365aff865084c0291ebdec1d407e15ed3b0a91",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/mnistUser/nd.js",
+    "gitBlob": "5dee262c9e6fd2fb59898c1ab7c8e11e5a58f426",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/convolution/mnistUser/trainedModel.js",
+    "gitBlob": "e4372225f9da4f2d000274970c7a45ab6e9b3850",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/libraries/functions.js",
+    "gitBlob": "b7115ce33d5e15f9224c64a829d3735497e8894b",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/libraries/layers.js",
+    "gitBlob": "9bd815b21c56cdfa423b8d38bf738814ccd4863e",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/libraries/matrix.js",
+    "gitBlob": "1846e2547adb5042620c2007d9e88ac5b57c7829",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/libraries/nd.js",
+    "gitBlob": "062ee6567c265a66d226e0e870f6be6919697f57",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/libraries/nd.min.js",
+    "gitBlob": "ece704b61effa9ae578ea8d7f8e87bc8f4af3de0",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/libraries/neuralNetwork.js",
+    "gitBlob": "61030bc6ca25c0237136cd2b425f01be55cc0d25",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/libraries/neuralnet.js",
+    "gitBlob": "6923deeb930b47f4552dcdd0e9f2b875ca54d48d",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/libraries/nnInProcess.js",
+    "gitBlob": "cc265ffaf17d84f54062cf44d049838aa9c3231f",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/libraries/style.css",
+    "gitBlob": "109a126edc140cce686a8b3e6427c2413be45fa4",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/libraries/tensor.js",
+    "gitBlob": "01d0d362f37702336f55d62fe53477fab80662e7",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/libraries/tf.min.js",
+    "gitBlob": "68f247305766aef321c766e40905e9ccac29fda2",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/libraries/vectors.js",
+    "gitBlob": "e72a56d99a3dedf4739751a7222268ea98bf8110",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/libraries/vectors.ts",
+    "gitBlob": "ad74a6bace8d72b0e4412f3ce076a64588bb5c63",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/activations_modules/activations.js",
+    "gitBlob": "7006e650b0589cdb51fe1ad860b6d16138505497",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/animate.js",
+    "gitBlob": "3918c74e446336be4151ea3bdad00f4d9e6df47a",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/core.js",
+    "gitBlob": "9902cf3d38c3c24afc19450c63586d4ec5e587db",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/functions.js",
+    "gitBlob": "c39f10863eb3ecff071852aab8303070cfd6ef51",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/initializer_modules/initializers.js",
+    "gitBlob": "cbb949ac29d7f9b3dd82ae984e875cbe67518c81",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/layer_modules/activation.js",
+    "gitBlob": "97a7d6a660a43e687e45b2482c2d9d30063c8332",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/layer_modules/batchNorm.js",
+    "gitBlob": "3290f09b41248a1fb596ea85b34bb6f275d95409",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/layer_modules/conv.js",
+    "gitBlob": "b3dac2507211669e41f494d5d99d56535886422a",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/layer_modules/dense.js",
+    "gitBlob": "0ae53c6b9e25d14dfb61d25170e0408c2afd305b",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/layer_modules/dropout.js",
+    "gitBlob": "9785ec6a4446e9f3f64bd60c01eb161da7a8e34b",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/layer_modules/ej.js",
+    "gitBlob": "3918c74e446336be4151ea3bdad00f4d9e6df47a",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/layer_modules/flatten.js",
+    "gitBlob": "5a360f1050d962034dc77c9f0586b13e9436ebae",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/layer_modules/layer.js",
+    "gitBlob": "c087204bb9239b5024d838bc8c2181e0b2188f2e",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/layer_modules/layer_module.js",
+    "gitBlob": "2a27d96be6eadbfd9f868246f6875173b2e096f2",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/layer_modules/layer_utils.js",
+    "gitBlob": "d210b0bafeecea0b26332bb2ca21906e4f9364d4",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/layer_modules/losses.js",
+    "gitBlob": "e0dae43678211d65c2f05e4cac15fe7aeb5d9d3e",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/layer_modules/mp.js",
+    "gitBlob": "25528d58e6ff15e0af8e8b1c901b83e98e32a183",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/layer_modules/norm.js",
+    "gitBlob": "2efff5fbca61681f99c78f993f34fb722877c91c",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/layer_modules/optimizers.js",
+    "gitBlob": "6be418d2c40fd56a78a95a02329b1534464996a1",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/losses_modules/losses.js",
+    "gitBlob": "83fb1d38561afef0806fcf5f6ff50296b392a489",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/merge_modules.js",
+    "gitBlob": "99176eee2a3bf146decb305fb3ef78d170a12013",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/model_modules/models.js",
+    "gitBlob": "d5a4563303a5cd9527a4f1ac99e1b64afce12291",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/nd.js",
+    "gitBlob": "0b861e722ff047ca7ec0ff79c04abf36347eac6f",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/nd2.js",
+    "gitBlob": "0b861e722ff047ca7ec0ff79c04abf36347eac6f",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/optimizers_modules/optimizers.js",
+    "gitBlob": "d22a7b936544aec40ed820c81371948dbce7664c",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/tensor_modules/arithmetic.js",
+    "gitBlob": "ffdf3759d121e3144ae01a0db3045cd0ef949493",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/tensor_modules/basic_math.js",
+    "gitBlob": "6acc3c64a0674ee77bb44ad46f98ce998d4edf94",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/tensor_modules/c_c_p.js",
+    "gitBlob": "26841d3d0d16b538b609efa6febe4b77186b2e1f",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/tensor_modules/matrix.js",
+    "gitBlob": "0a059d172f5b4ee68b9baa141c2c7353f122c8e0",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/tensor_modules/reduction.js",
+    "gitBlob": "be66f49631306bf30623f4d1841dab438c37a82d",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/tensor_modules/t_creation.js",
+    "gitBlob": "a4df34a07b3a18c8ade679cf4721e5699f5dd1ab",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/tensor_modules/t_elmts.js",
+    "gitBlob": "4123d982f81a1b3e30b1891602fdbd9f7f889593",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/tensor_modules/t_transform.js",
+    "gitBlob": "8eb08a5985f8f33be77f0c2ef20aa2c440862f7c",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/tensor_modules/t_utils.js",
+    "gitBlob": "29d6562b6f16c47316263b8090b074fd0327722f",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/tensor_modules/tensor.js",
+    "gitBlob": "a7d926f57ff6858a6d8370fdb08fcd096341a413",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/tensor_modules/tensor_module.js",
+    "gitBlob": "bdbe8a7448501f331b3795e50d83bfd9fc58bbc0",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/types.js",
+    "gitBlob": "cb0ff5c3b541f646105198ee23ac0fc3d805023e",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/dist/util.js",
+    "gitBlob": "a2324f77a3aef029a4f70766280724a807cf6b41",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/activations_modules/activations.ts",
+    "gitBlob": "be110c8d73affca84e15107b65653713b18f34bd",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/index.ts",
+    "gitBlob": "2c26c9a74f3c06efe167014dd4c00ea87fe863b1",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/initializer_modules/initializers.ts",
+    "gitBlob": "034cf3ebdfdab651f27127cc5e0834496b7ccc29",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/layer_modules/activation.ts",
+    "gitBlob": "c3f54e99f1309c85eb0b4c1384c9408f684afe56",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/layer_modules/batchNorm.ts",
+    "gitBlob": "7314ab6b33efe887d1e11fc9a17dbee33f067c3b",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/layer_modules/conv.ts",
+    "gitBlob": "985d3b0fe6bdcdbdeffd6083877eb7ebf5ce4918",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/layer_modules/dense.ts",
+    "gitBlob": "9043e2556f35b25dc45b65f9d7f0e512e18e6653",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/layer_modules/dropout.ts",
+    "gitBlob": "d6d59dd67f9668e9034e0f09c95730e7e21adb2a",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/layer_modules/flatten.ts",
+    "gitBlob": "2b688d5dbaa0c4bc662d9b50abeda6fe2afb30d4",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/layer_modules/layer.ts",
+    "gitBlob": "dca49f8430a82e3762e798cc8e11afdf5b6ba966",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/layer_modules/layer_module.ts",
+    "gitBlob": "438dec1bfd2d92d8cc5bdde33612b0adf7d987df",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/layer_modules/layer_utils.ts",
+    "gitBlob": "b6be1b39630dfa8135eeb94b9fd5e0c3912b5c08",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/layer_modules/mp.ts",
+    "gitBlob": "786f52db39e8d271779f2612f65b9ab41f15b193",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/layer_modules/norm.ts",
+    "gitBlob": "4bf385f58d2e1bea7d8cf302b6284c797df8a85a",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/losses_modules/losses.ts",
+    "gitBlob": "7084772ff2dc152bed0dbb42313ef25755af2b7c",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/merge_modules.ts",
+    "gitBlob": "2c26c9a74f3c06efe167014dd4c00ea87fe863b1",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/model_modules/models.ts",
+    "gitBlob": "04faf483a3e43b6329173287e02b5b330bd3e84b",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/nd.ts",
+    "gitBlob": "8566e1fe60ce60d2c225f1c356dc7775e9fd130d",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/optimizers_modules/optimizers.ts",
+    "gitBlob": "2071a1b9fe032e797881feadbf4de42bb4ebd774",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/tensor_modules/arithmetic.ts",
+    "gitBlob": "a5e6a83d2ddb9145b6ff498d69e455ddc41ef8d0",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/tensor_modules/basic_math.ts",
+    "gitBlob": "9b1526aa9a02fc084e86ec93ca6aebba6564e399",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/tensor_modules/c_c_p.ts",
+    "gitBlob": "de14bc9aae7345cfe430113c1b894787b14a491b",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/tensor_modules/matrix.ts",
+    "gitBlob": "2afa3cca9a5da40d2f77fd192572d54ceec28b60",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/tensor_modules/reduction.ts",
+    "gitBlob": "8ef32b3b237b43dc158fa8cc26eba6ea0bf7b698",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/tensor_modules/t_creation.ts",
+    "gitBlob": "40e42177dbf140638fd95768b1819d8211e62fb5",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/tensor_modules/t_elmts.ts",
+    "gitBlob": "8ec19143bfdf5e271e755eecaee337b5e3bc831e",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/tensor_modules/t_transform.ts",
+    "gitBlob": "d19c1649b8b73d97c5e9f2846b3a1e42c93a62ef",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/tensor_modules/t_utils.ts",
+    "gitBlob": "8c4833f02610a950e59054fecae01087ef14903f",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/tensor_modules/tensor.ts",
+    "gitBlob": "7d1cad33a18e28a02b43def27ac3a40d0b4b2aa1",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/tensor_modules/tensor_module.ts",
+    "gitBlob": "6722200cc3e1acdb10df3513a9a8d984bc36d3ee",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/types.ts",
+    "gitBlob": "46683ff5524930815f3233f6387392c9463b43c3",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/src/util.ts",
+    "gitBlob": "1345a100ee28edeecbb061d9feadcc13670e3acb",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/nd/tsconfig.json",
+    "gitBlob": "46533d7ad01906209649a20f7c1234a886a38269",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/neuroevolution/juego/bird.js",
+    "gitBlob": "1669a9118031320f460bf21df4d080fb9fe5220d",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/neuroevolution/juego/controler.js",
+    "gitBlob": "608828231fd033e38b782f6b9f49f38837134817",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/neuroevolution/juego/index.html",
+    "gitBlob": "9a619d134bf7fc376a89f4fdb562d9dc4b2091b7",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/neuroevolution/juego/main.js",
+    "gitBlob": "391881728cc4aa3d7f3abdb3514fc8d5caccfcd8",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/neuroevolution/juego/pipes.js",
+    "gitBlob": "00a32475e992e1571be163dff09ce4d19ffd8279",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/random/ndmin/index.html",
+    "gitBlob": "44a6dcf49bc5ce13dcead0f574ac89acc6eee250",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/random/ndmin/main.js",
+    "gitBlob": "caca2a3b79267ca286e4f3bbbb86a09fd10f38dc",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/random/ndmin/nd.js",
+    "gitBlob": "ece704b61effa9ae578ea8d7f8e87bc8f4af3de0",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/random/tensor/index.html",
+    "gitBlob": "4fc98f739db265bfbf5d27c031d8453efd3425d3",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/random/tensor/main.js",
+    "gitBlob": "93d2c80e61d3e1332f140b191c18c4346cfb1476",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/random/tensor/nd2.js",
+    "gitBlob": "677e022dffc83de6371737d3644c0ac03e27b079",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/random/xor/index.html",
+    "gitBlob": "1309338c3b67331523eba22889e66f24d47bb55c",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/projects/random/xor/main.js",
+    "gitBlob": "08ba836d3e70322599f087fd4878f505e3af2d50",
+    "text": true
+  },
+  {
+    "path": "machine-learning/neuralnet/styles/imagenes/favicon.ico",
+    "gitBlob": "a64baf38bcdda9c6cbc2d170e2a8ea29f45ad667",
+    "text": false
+  },
+  {
+    "path": "machine-learning/neuralnet/styles/imagenes/foto.jpg",
+    "gitBlob": "f7a550567f755de21f68a534f4e9641b32bf2316",
+    "text": false
+  },
+  {
+    "path": "machine-learning/neuralnet/styles/imagenes/lobo.jpg",
+    "gitBlob": "243b3e001247f84b3e18b72b0384c2fb2e5aed89",
+    "text": false
+  },
+  {
+    "path": "machine-learning/neuralnet/styles/imagenes/logo-facebook.jpg",
+    "gitBlob": "6a18277107bb2b917b27c2a2c477d7122e4e3a4d",
+    "text": false
+  },
+  {
+    "path": "machine-learning/neuralnet/styles/imagenes/logo-instagram.jpg",
+    "gitBlob": "883251199288b6ea922f9631217e7253ac5c579f",
+    "text": false
+  },
+  {
+    "path": "machine-learning/neuralnet/styles/imagenes/logo-twitter.jpg",
+    "gitBlob": "49fe4ffd720ce035f5c10a05cd6e321accc14f41",
+    "text": false
+  },
+  {
+    "path": "machine-learning/neuralnet/styles/imagenes/logo-youtube.jpg",
+    "gitBlob": "15d408535a3343d6b469b41741ae8687fbf49511",
+    "text": false
+  },
+  {
+    "path": "machine-learning/neuralnet/styles/imagenes/mnistImg.jpg",
+    "gitBlob": "73ae4f321ee66a5c7ddd3fc1768d1abe8094bda4",
+    "text": false
+  },
+  {
+    "path": "machine-learning/neuralnet/styles/imagenes/neuroevolutionImg.jpg",
+    "gitBlob": "f730e4a9fec0768a0accfe29666d7776abf49cb9",
+    "text": false
+  },
+  {
+    "path": "machine-learning/neuralnet/styles/imagenes/xorImg.jpg",
+    "gitBlob": "47f2829f82a5df96b8dbbe9b612f17c88417234d",
+    "text": false
+  },
+  {
+    "path": "machine-learning/neuralnet/styles/style.css",
+    "gitBlob": "cc237997440ac04773ecbb9a819aacb4f46e243f",
+    "text": true
+  },
+  {
+    "path": "machine-learning/newMnist/index.html",
+    "gitBlob": "3fe97ac5c8b0d638dc2f27d55e141436e53295d8",
+    "text": true
+  },
+  {
+    "path": "machine-learning/newMnist/main.js",
+    "gitBlob": "3f92e55a926e33a29a595e8d5e88da32fd0e3d4c",
+    "text": true
+  },
+  {
+    "path": "machine-learning/newMnist/mnist.js",
+    "gitBlob": "b8a37998f01173fa88f67e72070135267b92acde",
+    "text": true
+  },
+  {
+    "path": "machine-learning/newMnist/neuralnet.js",
+    "gitBlob": "e594a2a33a80ba98cf290e2ee5fd1ebfd16ed26a",
+    "text": true
+  },
+  {
+    "path": "machine-learning/newMnist/test-images.idx3-ubyte",
+    "gitBlob": "1170b2cae98de7a524b163fcc379ac8f00925b12",
+    "text": false
+  },
+  {
+    "path": "machine-learning/newMnist/test-labels.idx1-ubyte",
+    "gitBlob": "d1c3a970612bbd2df47a3c0697f82bd394abc450",
+    "text": false
+  },
+  {
+    "path": "machine-learning/newMnist/test.js",
+    "gitBlob": "ba02fb5d2eca53c08b2bef1b9e2995eef5bafe9e",
+    "text": true
+  },
+  {
+    "path": "machine-learning/newMnist/train-images.idx3-ubyte",
+    "gitBlob": "bbce27659e0fc2b7ed2a64c127849380a477099b",
+    "text": false
+  },
+  {
+    "path": "machine-learning/newMnist/train-labels.idx1-ubyte",
+    "gitBlob": "d6b4c5db3b52063d543fb397aede09aba0dc5234",
+    "text": false
+  },
+  {
+    "path": "machine-learning/newMnist/trainedModel.js",
+    "gitBlob": "a09db8ede7a6cd1e295c035fa9990b775a544f11",
+    "text": true
+  },
+  {
+    "path": "machine-learning/newMnistUser/index.html",
+    "gitBlob": "78f983746f698bca0734d7c73b228766b8039209",
+    "text": true
+  },
+  {
+    "path": "machine-learning/newMnistUser/main.js",
+    "gitBlob": "c3b7cd9a17fc1433caebc093505acc593578a28e",
+    "text": true
+  },
+  {
+    "path": "machine-learning/newMnistUser/neuralnet.js",
+    "gitBlob": "38fdd13c55614dbbae0024cfec5e2a00be84fc3a",
+    "text": true
+  },
+  {
+    "path": "machine-learning/newMnistUser/trainedModel.js",
+    "gitBlob": "14dc1bb518decbc486a25494429aec3988ab0c02",
+    "text": true
+  },
+  {
+    "path": "machine-learning/nn/index.html",
+    "gitBlob": "1776c5d61c5da12879a8fdfd7028b8d4d4a94139",
+    "text": true
+  },
+  {
+    "path": "machine-learning/nn/main.js",
+    "gitBlob": "43ba736dbe3f864cd1866a0ffaac3d428e186b50",
+    "text": true
+  },
+  {
+    "path": "machine-learning/nn/nn.js",
+    "gitBlob": "82060c961285e2262568825ec1074604fb4ccad6",
+    "text": true
+  },
+  {
+    "path": "machine-learning/nn/point.js",
+    "gitBlob": "45ab34885d1bae6c7b1d2d2693b09db53f68b5e8",
+    "text": true
+  },
+  {
+    "path": "machine-learning/nnLayers/index.html",
+    "gitBlob": "a55d2bd99554b78c70b709f541fffe04ad0523bb",
+    "text": true
+  },
+  {
+    "path": "machine-learning/nnLayers/main.js",
+    "gitBlob": "88a8fa2e0f6ef9a3c003f0e90f0a8adce554e19c",
+    "text": true
+  },
+  {
+    "path": "machine-learning/nnLayers/net.js",
+    "gitBlob": "8a5e3421003824a4d00b330d4f82995bc054c437",
+    "text": true
+  },
+  {
+    "path": "machine-learning/nnLayers/nn.js",
+    "gitBlob": "4017dddca3688e1c9a05cb9ebcdcdb1725ee5584",
+    "text": true
+  },
+  {
+    "path": "machine-learning/perceptron/index.html",
+    "gitBlob": "a45dfaa23b1bd0fac0288f20bc2aa435b0967aab",
+    "text": true
+  },
+  {
+    "path": "machine-learning/perceptron/main.js",
+    "gitBlob": "23dcaa4903e278e8f0fa3df639569401a9694482",
+    "text": true
+  },
+  {
+    "path": "machine-learning/perceptron/perceptron.js",
+    "gitBlob": "7b96f55dc860c9f4787ffcc419bf5dd67dcb1c0c",
+    "text": true
+  },
+  {
+    "path": "machine-learning/perceptron/point.js",
+    "gitBlob": "cf0a4b4ad1636ac59418dd9244d30eb9d78347a9",
+    "text": true
+  },
+  {
+    "path": "machine-learning/polynomialRegression/functions.js",
+    "gitBlob": "448b0fb5accd05b2da510a2a29510b36bf721d46",
+    "text": true
+  },
+  {
+    "path": "machine-learning/polynomialRegression/index.html",
+    "gitBlob": "dd79ffcc3f884f4c02b6249fc7b728948fd23596",
+    "text": true
+  },
+  {
+    "path": "machine-learning/polynomialRegression/main.js",
+    "gitBlob": "6f33f6082a20132ad3f4d73abe47bdfa52ae7ff0",
+    "text": true
+  },
+  {
+    "path": "machine-learning/polynomialRegression3/functions.js",
+    "gitBlob": "448b0fb5accd05b2da510a2a29510b36bf721d46",
+    "text": true
+  },
+  {
+    "path": "machine-learning/polynomialRegression3/index.html",
+    "gitBlob": "dd79ffcc3f884f4c02b6249fc7b728948fd23596",
+    "text": true
+  },
+  {
+    "path": "machine-learning/polynomialRegression3/main.js",
+    "gitBlob": "d39f7f5c1c27a844e2d354f13b71d6d6bb3a97c5",
+    "text": true
+  },
+  {
+    "path": "machine-learning/repasoVisualizando/cnnFunctions.js",
+    "gitBlob": "fd46f23dbff69c2848c6f754ae1a8d832b4fef74",
+    "text": true
+  },
+  {
+    "path": "machine-learning/repasoVisualizando/index.html",
+    "gitBlob": "cd057630a222072e5735fd03dc51aa44cdff642d",
+    "text": true
+  },
+  {
+    "path": "machine-learning/repasoVisualizando/main.js",
+    "gitBlob": "44b815acdd91d43b8d61a3063cd47cf00642b79a",
+    "text": true
+  },
+  {
+    "path": "machine-learning/weightsAsInputs/bestbird.js",
+    "gitBlob": "f97cb4dca662759c34a45685413e940abf758e80",
+    "text": true
+  },
+  {
+    "path": "machine-learning/weightsAsInputs/bird.js",
+    "gitBlob": "b5624de43e49f7cd7b479c718d99c2b3b08fbb15",
+    "text": true
+  },
+  {
+    "path": "machine-learning/weightsAsInputs/controler.js",
+    "gitBlob": "2a486ff5a6843487acf0981a39afd9dde4a4e4fc",
+    "text": true
+  },
+  {
+    "path": "machine-learning/weightsAsInputs/index.html",
+    "gitBlob": "49b97499fc5d8b580ff8609477062f7a926a575e",
+    "text": true
+  },
+  {
+    "path": "machine-learning/weightsAsInputs/lateralLayer.js",
+    "gitBlob": "2a0386f2b4dd295798a53d7c62f600e9c63ab48a",
+    "text": true
+  },
+  {
+    "path": "machine-learning/weightsAsInputs/main.js",
+    "gitBlob": "6e3f15c5268a0ea3d3b127bd096e670443e5ee4a",
+    "text": true
+  },
+  {
+    "path": "machine-learning/weightsAsInputs/pipes.js",
+    "gitBlob": "b5b1f959bd57e258003f12c6dafb1958c9239070",
+    "text": true
+  },
+  {
+    "path": "machine-learning/weightsAsInputs/worstBirds.js",
+    "gitBlob": "e65921413d82d57177907390fe8c207c062cf43f",
+    "text": true
+  },
+  {
+    "path": "machine-learning/wightsVisualization/bestBirds.js",
+    "gitBlob": "099aa414bad0aa1dc339e1003858a79411e4c870",
+    "text": true
+  },
+  {
+    "path": "machine-learning/wightsVisualization/index.html",
+    "gitBlob": "382187a1f99cd685509f0b2cdd63e71a294637b3",
+    "text": true
+  },
+  {
+    "path": "machine-learning/wightsVisualization/main.js",
+    "gitBlob": "75d1065949fec69cba83f509122993d00c9d464c",
+    "text": true
+  },
+  {
+    "path": "machine-learning/wightsVisualization/worstBirds.js",
+    "gitBlob": "f383f3b999c68684ae585beb2dadb2a08d516234",
+    "text": true
+  },
+  {
+    "path": "machine-learning/xor/index.html",
+    "gitBlob": "d855884688f250baf9417373fedf7159c60244c3",
+    "text": true
+  },
+  {
+    "path": "machine-learning/xor/main.js",
+    "gitBlob": "4873bff7a1fc86b1c1e3d152d4731687819678f0",
+    "text": true
+  },
+  {
+    "path": "machine-learning/xor/nn.js",
+    "gitBlob": "d13fc6718b9248b32b3d0c9de4d8e29ac21d94e6",
+    "text": true
+  },
+  {
+    "path": "main.js",
+    "gitBlob": "3f94f4126382cc236281ef66fa693fb1f80d743f",
+    "text": true
+  },
+  {
+    "path": "math/coordenadas/index.html",
+    "gitBlob": "3992bff16afc254c9f204d59886fc9374698e4d6",
+    "text": true
+  },
+  {
+    "path": "math/coordenadas/main.js",
+    "gitBlob": "7a85b75873be2d79c5dadd771c1e028a8d77fac7",
+    "text": true
+  },
+  {
+    "path": "math/fibonacci/index.html",
+    "gitBlob": "532a4e55214f2793a98c98fb079186809fae7c06",
+    "text": true
+  },
+  {
+    "path": "math/fibonacci/main.js",
+    "gitBlob": "dd6f7212d0809d3fb7d06c0083b5760d371f5886",
+    "text": true
+  },
+  {
+    "path": "math/fibonacci/style.css",
+    "gitBlob": "28c52fb9eb5e53669d27f576856779a9a6ed71be",
+    "text": true
+  },
+  {
+    "path": "math/imaginary/imaginary.js",
+    "gitBlob": "1deded884307974a501813e52b7d23deea135249",
+    "text": true
+  },
+  {
+    "path": "math/imaginary/index.html",
+    "gitBlob": "17f79cedd62e852353b41bc528dad4738aeb97bf",
+    "text": true
+  },
+  {
+    "path": "math/normalDistribution/index.html",
+    "gitBlob": "aca06929160734bf25d0944b86eb32e302647f68",
+    "text": true
+  },
+  {
+    "path": "math/normalDistribution/main.js",
+    "gitBlob": "89469392b39bcd13fd0941d126e0d5eef56b3aba",
+    "text": true
+  },
+  {
+    "path": "math/scalarProyection/index.html",
+    "gitBlob": "1d1a547c00738524f6ac3b7960a092e24459652f",
+    "text": true
+  },
+  {
+    "path": "math/scalarProyection/main.js",
+    "gitBlob": "a8661bfa80041196c1a5d8ebbcfefcd67f82cd50",
+    "text": true
+  },
+  {
+    "path": "shared/libraries/functions.js",
+    "gitBlob": "e7d9deade8093cde5b02ad5304546e02c5b0ca4a",
+    "text": true
+  },
+  {
+    "path": "shared/libraries/matrix.js",
+    "gitBlob": "39919dea8a85fb9a55e322ce71bebb083c7c0a2c",
+    "text": true
+  },
+  {
+    "path": "shared/libraries/neuralNetwork.js",
+    "gitBlob": "2395db72f7d9e44c2fbd5b9d312f90265ccfd6f2",
+    "text": true
+  },
+  {
+    "path": "shared/libraries/style.css",
+    "gitBlob": "109a126edc140cce686a8b3e6427c2413be45fa4",
+    "text": true
+  },
+  {
+    "path": "shared/libraries/tf.min.js",
+    "gitBlob": "68f247305766aef321c766e40905e9ccac29fda2",
+    "text": true
+  },
+  {
+    "path": "shared/libraries/vectors.js",
+    "gitBlob": "e72a56d99a3dedf4739751a7222268ea98bf8110",
+    "text": true
+  },
+  {
+    "path": "shared/neuralnetLib/neuralnet.js",
+    "gitBlob": "3466603e661a313a173ec8d091bca4ad7542ebf3",
+    "text": true
+  },
+  {
+    "path": "shared/plantilla/imagenes/favicon.ico",
+    "gitBlob": "a64baf38bcdda9c6cbc2d170e2a8ea29f45ad667",
+    "text": false
+  },
+  {
+    "path": "shared/plantilla/imagenes/foto.jpg",
+    "gitBlob": "f7a550567f755de21f68a534f4e9641b32bf2316",
+    "text": false
+  },
+  {
+    "path": "shared/plantilla/imagenes/lobo.jpg",
+    "gitBlob": "243b3e001247f84b3e18b72b0384c2fb2e5aed89",
+    "text": false
+  },
+  {
+    "path": "shared/plantilla/imagenes/logo-facebook.jpg",
+    "gitBlob": "6a18277107bb2b917b27c2a2c477d7122e4e3a4d",
+    "text": false
+  },
+  {
+    "path": "shared/plantilla/imagenes/logo-instagram.jpg",
+    "gitBlob": "883251199288b6ea922f9631217e7253ac5c579f",
+    "text": false
+  },
+  {
+    "path": "shared/plantilla/imagenes/logo-twitter.jpg",
+    "gitBlob": "49fe4ffd720ce035f5c10a05cd6e321accc14f41",
+    "text": false
+  },
+  {
+    "path": "shared/plantilla/imagenes/logo-youtube.jpg",
+    "gitBlob": "15d408535a3343d6b469b41741ae8687fbf49511",
+    "text": false
+  },
+  {
+    "path": "simulations/boids/boids.js",
+    "gitBlob": "1cba6407d746b6107aff4db9a9fefa13043222a7",
+    "text": true
+  },
+  {
+    "path": "simulations/boids/chaser.js",
+    "gitBlob": "dbbd1cf58e16214264c798805bad0c2a7b8d7f32",
+    "text": true
+  },
+  {
+    "path": "simulations/boids/index.html",
+    "gitBlob": "b6a7c7d9c9cecd3f11010fafeeba499686c8da91",
+    "text": true
+  },
+  {
+    "path": "simulations/boids/main.js",
+    "gitBlob": "4f0eb3231ddf6834d866afbfd6ca6a89b32f989a",
+    "text": true
+  },
+  {
+    "path": "simulations/circular/index.html",
+    "gitBlob": "ad0232033be607f905856ac3464d15c51310145d",
+    "text": true
+  },
+  {
+    "path": "simulations/circular/main.js",
+    "gitBlob": "95c1e58ede2ffb668064964b31bd1b500cb9b0e6",
+    "text": true
+  },
+  {
+    "path": "simulations/circular/particle.js",
+    "gitBlob": "890c0f38c1d9bfacd79d455e0d26cde54ff08189",
+    "text": true
+  },
+  {
+    "path": "simulations/gameOfLife/index.html",
+    "gitBlob": "aa06ea81e965a2b0ae862078d36d371850e40e25",
+    "text": true
+  },
+  {
+    "path": "simulations/gameOfLife/main.js",
+    "gitBlob": "fab04a29c4b2832503bb52f29c2cb9ec0e9efd51",
+    "text": true
+  },
+  {
+    "path": "simulations/gravity/index.html",
+    "gitBlob": "561e17261c093a2cef872ba0a22fc05b5c80b4ed",
+    "text": true
+  },
+  {
+    "path": "simulations/gravity/main.js",
+    "gitBlob": "26ca55885a453e9d4c7621a4373393d56d588440",
+    "text": true
+  },
+  {
+    "path": "simulations/gravity/particle.js",
+    "gitBlob": "71120e99f8f3b01a9b0a1133a884a94d6710324e",
+    "text": true
+  },
+  {
+    "path": "simulations/ondas/index.html",
+    "gitBlob": "4948bd2fd2c9455d59416b8a3d464c17d6997f27",
+    "text": true
+  },
+  {
+    "path": "simulations/ondas/main.js",
+    "gitBlob": "a82b9d2629582c530efb91d0d60c7b447d2c24b2",
+    "text": true
+  },
+  {
+    "path": "simulations/particulas/ejemplo.js",
+    "gitBlob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "text": true
+  },
+  {
+    "path": "simulations/particulas/index.html",
+    "gitBlob": "8995745ab820cd2f1e35e7254fdeeebb43a45cf5",
+    "text": true
+  },
+  {
+    "path": "simulations/particulas/main.js",
+    "gitBlob": "c212f6f5d56e57367bfb5eb6f1383636888608da",
+    "text": true
+  },
+  {
+    "path": "simulations/particulas/particle.js",
+    "gitBlob": "186317959e3dee483e727507d508cbd559f4f396",
+    "text": true
+  },
+  {
+    "path": "simulations/solarSystem/index.html",
+    "gitBlob": "cd458499a7f1912fc1522d580d8a9e5226c52489",
+    "text": true
+  },
+  {
+    "path": "simulations/solarSystem/main.js",
+    "gitBlob": "c42197959b28c9e38adb3ed9a21e23189d60d0a7",
+    "text": true
+  },
+  {
+    "path": "simulations/solarSystem/particles.js",
+    "gitBlob": "5dc4e15de003320366efab8543bcc6d35e7e49bb",
+    "text": true
+  },
+  {
+    "path": "simulations/squareCollision/index.html",
+    "gitBlob": "d0e10d493a8215811bf20e9508722e0fd70d16ab",
+    "text": true
+  },
+  {
+    "path": "simulations/squareCollision/main.js",
+    "gitBlob": "58d2da3cfa42b4097162f70b1310e0e4c6b3e664",
+    "text": true
+  },
+  {
+    "path": "simulations/stickyParticles/index.html",
+    "gitBlob": "36eec3eeba34de1d3a77be1c812a77422f07e93e",
+    "text": true
+  },
+  {
+    "path": "simulations/stickyParticles/main.js",
+    "gitBlob": "3653d28e8ecf0a2965a2f009d15e66abcfe625a2",
+    "text": true
+  },
+  {
+    "path": "simulations/stickyParticles/particle.js",
+    "gitBlob": "d039573418f597cc3f859acb5b345abcca019eca",
+    "text": true
+  },
+  {
+    "path": "style.css",
+    "gitBlob": "db5bf11cd36571842b0d7b9287a4ece2aa48870c",
+    "text": true
+  },
+  {
+    "path": "web-practice/cajero/index.html",
+    "gitBlob": "85f7105e7eac83d02ed50616d063d01998475b13",
+    "text": true
+  },
+  {
+    "path": "web-practice/cajero/main.js",
+    "gitBlob": "83c73f40267a4aacb5b7cb67f08e4a4c4c9af0aa",
+    "text": true
+  },
+  {
+    "path": "web-practice/cajero/style.css",
+    "gitBlob": "987433f5e3b8d3b0f5d0ce6cf8c7b6d292847d84",
+    "text": true
+  },
+  {
+    "path": "web-practice/carga/index.html",
+    "gitBlob": "1f8ec3d9387e770568c0e6becb5c09ad61a97fbc",
+    "text": true
+  },
+  {
+    "path": "web-practice/carga/style.css",
+    "gitBlob": "e7e64c1b3ee4b6c8cd16c8b83acb2dd8c89a9e39",
+    "text": true
+  },
+  {
+    "path": "web-practice/contra/index.html",
+    "gitBlob": "8f3576162b13914d559837f6d16fe28b83e7de44",
+    "text": true
+  },
+  {
+    "path": "web-practice/contra/main.js",
+    "gitBlob": "b60de44fe0076dd28f4d2e5aa047ba3a3e917980",
+    "text": true
+  },
+  {
+    "path": "web-practice/contra/style.css",
+    "gitBlob": "edd8b493e650c404e3ba33cee89459e8d9a5c170",
+    "text": true
+  },
+  {
+    "path": "web-practice/css-grid/index.php",
+    "gitBlob": "82bbb8cd53fdac0d5440b950b39251cd55dfa416",
+    "text": true
+  },
+  {
+    "path": "web-practice/css-grid/plantilla/css/estilos.css",
+    "gitBlob": "d6b38333ca9bfa5e7ca749b76095650e0cf2509b",
+    "text": true
+  },
+  {
+    "path": "web-practice/css-grid/plantilla/css/grid.css",
+    "gitBlob": "3075bd5d7e1431e8ebba26830c84109aba2e9f4b",
+    "text": true
+  },
+  {
+    "path": "web-practice/hover/index.html",
+    "gitBlob": "129dde363cc3675d4a85ca43e386fad319ada07e",
+    "text": true
+  },
+  {
+    "path": "web-practice/hover/style.css",
+    "gitBlob": "ebe49f8f1cff1537eec26c0c4d932b88f232d87c",
+    "text": true
+  },
+  {
+    "path": "web-practice/logincool/estilos.css",
+    "gitBlob": "54ecb1dff59ed7f03b0a40a58f332b80f956f2b3",
+    "text": true
+  },
+  {
+    "path": "web-practice/logincool/index.html",
+    "gitBlob": "ea2b2a816a3417e2c35fd35916b4131fe0cf42fc",
+    "text": true
+  },
+  {
+    "path": "web-practice/logincool/tecnologia.jpg",
+    "gitBlob": "19b4d480462eb461ad8c29b4528316044963ae9d",
+    "text": false
+  },
+  {
+    "path": "web-practice/reloj/index.html",
+    "gitBlob": "7fdf4a9153b32da61a06377f9f1d3234e3a87884",
+    "text": true
+  },
+  {
+    "path": "web-practice/reloj/reloj.js",
+    "gitBlob": "17a4624f25b3a5a3be06f327dd0d980b7495123f",
+    "text": true
+  },
+  {
+    "path": "web-practice/reloj/star.jpg",
+    "gitBlob": "e5b91ee5bcbc197ca896495828ec177480f28926",
+    "text": false
+  },
+  {
+    "path": "web-practice/reloj/style.css",
+    "gitBlob": "7bead5ff4d28edd6c005f1b22098056900b0059c",
+    "text": true
+  },
+  {
+    "path": "web-practice/sofia/gato.jpeg",
+    "gitBlob": "9c700d087f91d739219c2fddb45abf02084334fb",
+    "text": false
+  },
+  {
+    "path": "web-practice/sofia/index.html",
+    "gitBlob": "5c8f148c8a30c0fabd7e580016b75ca3ac8196e2",
+    "text": true
+  },
+  {
+    "path": "web-practice/sofia/style.css",
+    "gitBlob": "ed0211ec3ec639b9e5ac822dfa837d7c8c75a539",
+    "text": true
+  },
+  {
+    "path": "web-practice/tmb/index.html",
+    "gitBlob": "ce249ca940756702c30ede2ffcdeee511f044a61",
+    "text": true
+  },
+  {
+    "path": "web-practice/tmb/main.js",
+    "gitBlob": "f137ed7a2225a4c73e336441953db040538b7e32",
+    "text": true
+  },
+  {
+    "path": "web-practice/tmb/style.css",
+    "gitBlob": "1d9fca8ee7222e987449021b90811d6ed8c0bcb6",
+    "text": true
+  },
+  {
+    "path": "web-practice/video/index.html",
+    "gitBlob": "4cacbb6318214fa9c29f7da54514f42e147fac1b",
+    "text": true
+  },
+  {
+    "path": "web-practice/video/main.js",
+    "gitBlob": "a5dd78b9c63160b2f1e6c3caa22ef520bd66522e",
+    "text": true
+  },
+  {
+    "path": "web-practice/video/style.css",
+    "gitBlob": "cf7d43d5015dcbc877bb5cb9b8f91ccf35a4e941",
+    "text": true
+  }
+]

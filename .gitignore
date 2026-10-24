@@ -26,3 +26,8 @@ Desktop.ini
 *.tmp
 *.swp
 *~
+
+# Next.js and deployment output
+.next/
+out/
+.vercel/
