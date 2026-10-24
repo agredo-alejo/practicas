@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#20231e"/><path d="M32 11v42M14 22l36 20M14 42l36-20" stroke="#dbf579" stroke-width="7"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="220 220 870 750" fill="none">
+  <title>Alejandro Agredo — blue A</title>
+  <defs>
+    <linearGradient id="left" x1="617" y1="252" x2="355" y2="829" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset=".32" stop-color="#a4e6f6"/><stop offset=".7" stop-color="#08c3ec"/><stop offset="1" stop-color="#0099f4"/></linearGradient>
+    <linearGradient id="left-tip" x1="249" y1="801" x2="316" y2="919" gradientUnits="userSpaceOnUse"><stop stop-color="#0068b7"/><stop offset="1" stop-color="#00547e"/></linearGradient>
+    <linearGradient id="right" x1="627" y1="256" x2="983" y2="816" gradientUnits="userSpaceOnUse"><stop stop-color="#00baf3"/><stop offset=".35" stop-color="#0076ff"/><stop offset=".77" stop-color="#0731ff"/><stop offset="1" stop-color="#1600ff"/></linearGradient>
+    <linearGradient id="right-tip" x1="897" y1="850" x2="1065" y2="941" gradientUnits="userSpaceOnUse"><stop stop-color="#1503ff"/><stop offset="1" stop-color="#2600f5"/></linearGradient>
+    <linearGradient id="inner-left" x1="626" y1="585" x2="412" y2="908" gradientUnits="userSpaceOnUse"><stop stop-color="#d5e5ff"/><stop offset=".47" stop-color="#6aa9f7"/><stop offset="1" stop-color="#0089f9"/></linearGradient>
+    <linearGradient id="inner-right" x1="626" y1="591" x2="746" y2="808" gradientUnits="userSpaceOnUse"><stop stop-color="#0862ff"/><stop offset="1" stop-color="#0015cf"/></linearGradient>
+    <linearGradient id="inner-tip" x1="681" y1="815" x2="802" y2="879" gradientUnits="userSpaceOnUse"><stop stop-color="#0028cf"/><stop offset="1" stop-color="#050aa2"/></linearGradient>
+  </defs>
+  <path d="M626 240 243 798 377 803 626 436Z" fill="url(#left)"/>
+  <path d="m243 798 44 135 90-130Z" fill="url(#left-tip)"/>
+  <path d="m626 240 359 565-98 56-261-425Z" fill="url(#right)"/>
+  <path d="m985 805 81 137-179-81Z" fill="url(#right-tip)"/>
+  <path d="M626 583 389 933 626 798Z" fill="url(#inner-left)"/>
+  <path d="m626 583 118 198-77 37-41-20Z" fill="url(#inner-right)"/>
+  <path d="m744 781 57 99-134-62Z" fill="url(#inner-tip)"/>
+</svg>

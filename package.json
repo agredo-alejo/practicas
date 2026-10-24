@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "catalog": "node scripts/catalog.mjs",
+    "add-project": "node scripts/add-project.mjs",
     "predev": "npm run catalog",
     "dev": "next dev --webpack",
     "prebuild": "npm run catalog",

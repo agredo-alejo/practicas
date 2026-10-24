@@ -1,0 +1,13 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+export const metadata: Metadata = { title: "Add an entry" };
+
+export default function AddPage() {
+  return <main id="main" className="shell guide-page"><Link href="/#projects" className="eyebrow text-muted">← Back to the archive</Link><p className="eyebrow mb-4 mt-10">A reminder for next time</p><h1>Add the next thing.</h1><p className="intro-note">It doesn’t have to be finished. Give it a folder, write a line about it, and keep going.</p><section className="guide-section"><h2>1. Start an entry</h2><p>From the repository folder, run:</p><pre><code>node scripts/add-project.mjs flow-field --category simulations</code></pre><p>This creates a small canvas starter and a <code>project.json</code> file. It also updates the catalog. Pick any folder name; an existing project won’t be overwritten.</p></section><section className="guide-section"><h2>2. Leave a little context</h2><p>Edit <code>public/legacy/simulations/flow-field/project.json</code>. A title and a short description are enough to get started. Stages are the six idea groups on the Connections page.</p><pre><code>{`{
+  "title": "flow field",
+  "description": "Trying to get particles to follow a field.",
+  "stage": 3,
+  "tags": ["vectors", "particles"]
+}`}</code></pre><p>Put your own demo files in the folder, or work from the starter. The local entry point is <code>index.html</code>. The catalog refreshes when you start development or build.</p></section><section className="guide-section"><h2>A project already lives somewhere else?</h2><p>Add it as a link. No need to copy its code into this archive.</p><pre><code>{`node scripts/add-project.mjs my-project --url https://example.com
+# Optional: --source https://github.com/you/my-project`}</code></pre><p>A linked project opens in its own tab. It gets the same space for your personal notes.</p></section><section className="guide-section"><h2>3. Come back to it</h2><p>Use the star next to an entry to pin it. Each project page has a place for a note to yourself. Those notes stay in this browser; download a Markdown copy if you want to keep it elsewhere.</p><p>Project descriptions in <code>project.json</code> belong to the repository and appear on the site. Browser notes are separate and aren’t published or synced.</p></section><p className="guide-footnote">Categories: experiments, simulations, graphics, math, games, machine-learning, web-practice, shared. The command picks a default learning stage for each category; use <code>--stage 1</code> through <code>--stage 6</code> to change it.</p><Link href="/#projects" className="text-link mt-8">Back to the notebook ↗</Link></main>;
+}

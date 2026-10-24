@@ -22,7 +22,7 @@ test('every original tracked file is preserved, allowing Git line-ending convers
 test('every original project folder and nested demo is represented once', async () => {
   const slugs = new Set(projects.map(project => project.slug));
   assert.equal(slugs.size, projects.length, 'project URLs must be unique');
-  assert.equal(projects.filter(project => !project.nested).length, 67);
+  assert.ok(projects.filter(project => !project.nested).length >= 67, 'all original folders remain, with room for new projects');
   for (const category of ['machine-learning', 'simulations', 'graphics', 'math', 'games', 'web-practice', 'experiments', 'shared']) {
     for (const folder of await readdir(path.join(archive, category), { withFileTypes: true })) {
       if (folder.isDirectory()) assert.ok(projects.some(project => project.path === `${category}/${folder.name}`), folder.name);

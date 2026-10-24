@@ -22,7 +22,9 @@ export type Project = {
   tags: string[];
   path: string;
   demo: string | null;
-  status: "source" | "incomplete" | "archived";
+  status: "source" | "incomplete" | "archived" | "linked";
+  url?: string;
+  source?: string;
   issues: string[];
   files: string[];
   nested: boolean;
@@ -42,6 +44,7 @@ export const stages = [
 export function getProject(slug: string) { return projects.find(project => project.slug === slug); }
 export function getCategory(id: CategoryId) { return categories.find(category => category.id === id)!; }
 export function sourceUrl(project: Project, file?: string) {
+  if (project.source && !file) return project.source;
   const base = file ? sourceRoot.replace("/tree/", "/blob/") : sourceRoot;
   return `${base}/${project.path.split("/").map(encodeURIComponent).join("/")}${file ? `/${file.split("/").map(encodeURIComponent).join("/")}` : ""}`;
 }
