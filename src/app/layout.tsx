@@ -8,5 +8,15 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="en"><body><a href="#main" className="skip-link">Skip to content</a><Header />{children}<Footer /></body></html>;
+  return (
+    <html lang="en">
+      {/* Grammarly can add attributes to body before React hydrates. Keep this escape hatch scoped to body. */}
+      <body suppressHydrationWarning>
+        <a href="#main" className="skip-link">Skip to content</a>
+        <Header />
+        {children}
+        <Footer />
+      </body>
+    </html>
+  );
 }
